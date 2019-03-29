@@ -1,10 +1,10 @@
 # yanmei122.github.io
 这是一个普通的段落。  
 git init   
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/yanmei122/hellolist.git
-git push -u origin master   
+git add README.md   
+git commit -m "first commit"   
+git remote add origin https://github.com/yanmei122/hellolist.git   
+git push -u origin master      
   
 <p>git remote add origin https://github.com/yanmei122/hellolist.git
 <p>git push -u origin master
