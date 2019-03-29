@@ -1,5 +1,6 @@
 # yanmei122.github.io
-这是一个普通的段落。
+这是一个普通的段落。  
+
 git init   
 git add README.md
 git commit -m "first commit"
