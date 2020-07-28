@@ -2,186 +2,258 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.meiyan.in/</id>
     <title>不言随笔</title>
-    <updated>2020-05-19T14:54:40.151Z</updated>
+    <updated>2020-07-28T09:23:55.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.meiyan.in/"/>
-    <link rel="self" href="https://www.meiyan.in//atom.xml"/>
+    <link rel="self" href="https://www.meiyan.in/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://www.meiyan.in//images/avatar.png</logo>
-    <icon>https://www.meiyan.in//favicon.ico</icon>
+    <logo>https://www.meiyan.in/images/avatar.png</logo>
+    <icon>https://www.meiyan.in/favicon.ico</icon>
     <rights>All rights reserved 2020, 不言随笔</rights>
     <entry>
-        <title type="html"><![CDATA[智能直播]]></title>
-        <id>https://www.meiyan.in//post/zhi-neng-zhi-bo</id>
-        <link href="https://www.meiyan.in//post/zhi-neng-zhi-bo">
+        <title type="html"><![CDATA[7月28日-前端面试]]></title>
+        <id>https://www.meiyan.in/post/7-yue-28-ri-qian-duan-mian-shi/</id>
+        <link href="https://www.meiyan.in/post/7-yue-28-ri-qian-duan-mian-shi/">
         </link>
-        <updated>2020-05-19T14:52:53.000Z</updated>
-        <content type="html"><![CDATA[<p>123</p>
+        <updated>2020-07-28T07:01:32.000Z</updated>
+        <content type="html"><![CDATA[<p>技术水平+主动性+灵活性</p>
+<p>1.简单自我介绍一下<br>
+2.工作经历、项目经历<br>
+3.谈一下你对远程工作项目开发的了解<br>
+4.其它问题<br>
+对程序员客栈的了解<br>
+开发团队了解<br>
+工作环境了解<br>
+薪资要求</p>
+<h3 id="302610643">302610643</h3>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5月19日]]></title>
-        <id>https://www.meiyan.in//post/5-yue-19-ri</id>
-        <link href="https://www.meiyan.in//post/5-yue-19-ri">
+        <title type="html"><![CDATA[7月27周会]]></title>
+        <id>https://www.meiyan.in/post/7-yue-27-zhou-hui/</id>
+        <link href="https://www.meiyan.in/post/7-yue-27-zhou-hui/">
         </link>
-        <updated>2020-05-19T07:13:38.000Z</updated>
-        <content type="html"><![CDATA[<p>专研产品、专研技术<br>
-一、产品方向路线<br>
-建立个人博客<br>
-P1复习<br>
-P2学习<br>
-P3了解<br>
-二、前端方向路线<br>
-JS VUE RECT</p>
+        <updated>2020-07-27T06:00:34.000Z</updated>
+        <content type="html"><![CDATA[<p>一、关键数据<br>
+<img src="https://www.meiyan.in//post-images/1595831789923.png" alt="" loading="lazy"><br>
+二、当前进度<br>
+移动端兼职招聘发布、样式正在优化<br>
+web端邮箱列表已经提测<br>
+推送事故，周六、周日推送延迟，具体原因还在排查，已加入短信提醒机制，消息队列慢的时候，我这边会第一时间收到短信提醒<br>
+三、产品方案<br>
+雇佣项目对接效率优化<br>
+云端、雇佣转兼职招聘</p>
+<p>1.帮助兼职招聘体验<br>
+收集一条<br>
+分析到点<br>
+会员弹窗<br>
+兼职招聘发布<br>
+围绕技术人力<br>
+云端工作介绍文案<br>
+2.协助营收数据</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5月15日]]></title>
-        <id>https://www.meiyan.in//post/5-yue-15-ri</id>
-        <link href="https://www.meiyan.in//post/5-yue-15-ri">
+        <title type="html"><![CDATA[7月25日周会]]></title>
+        <id>https://www.meiyan.in/post/7-yue-25-ri-zhou-hui/</id>
+        <link href="https://www.meiyan.in/post/7-yue-25-ri-zhou-hui/">
         </link>
-        <updated>2020-05-15T06:11:21.000Z</updated>
-        <content type="html"><![CDATA[<p>1.每天催进度，搞不好换人<br>
-2.瑞勇<br>
-3.Android、iOS换人</p>
-<p>一、市场部<br>
-解决方案本周完成8个<br>
-本周完成46万，一共完成92万</p>
-<p>二、项目部<br>
-10个短视频，已完成<br>
-知乎广告投放，已投放，知乎已获取到新用户<br>
-每个组员KPI已定</p>
-<p>二、技术部<br>
-1.417版本测试情况<br>
-2.当前解决方案</p>
-<p>输出正能量</p>
+        <updated>2020-07-25T02:49:44.000Z</updated>
+        <content type="html"><![CDATA[<p>##一、上周任务完成情况<br>
+web端<br>
+当前进度、遇到的问题</p>
+<p>移动端<br>
+当前进度、遇到的问题<br>
+##二、L总结<br>
+进度情况出现的问题<br>
+web端：<br>
+估时有一定问题，具体是没有考虑到熟练度+临时紧急需求<br>
+移动端：<br>
+1.需求细节需要主动更开发讲述，当前已经做的，每天晚上明确需求<br>
+P1:想办法让开放看需求细节看仔细一些，每一次重新看需求都有不一样的感觉，会发现需求细节问题<br>
+P2:规则，每天晚上9点，准时给开放整理明确开发任务<br>
+P3:开放没有按要求做完的，仔细跟进去了解原因，是需求细节没有理解，还是没有时间，还是其它原因<br>
+P4:充分测试，多体验产品，要对自己的产品细节功能了如指掌，当前BUG很多</p>
+<p>个人成长问题<br>
+技术负责人：<br>
+多做新需求，多了解新的技术，做得多了，经验就多了，效率就会提高，然后才有精力去指导其他人<br>
+产品负责人：<br>
+1.对当前已有的产品功能细节做到了如指掌<br>
+2.想办法把解决“把需求文档”做出来的问题，后面要尝试解决解决&quot;做什么“、&quot;做准确&quot;的问题<br>
+3.一定要有自己的学习计划，自学能力，按规划来，产品经理一定要学会表达，产品宣讲，产品发布会，当前建议尝试建立积累自己的官网博客<br>
+4.孙三峰可以帮忙</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5月13日]]></title>
-        <id>https://www.meiyan.in//post/5-yue-13-ri</id>
-        <link href="https://www.meiyan.in//post/5-yue-13-ri">
+        <title type="html"><![CDATA[7月24日周会]]></title>
+        <id>https://www.meiyan.in/post/7-yue-24-ri-zhou-hui/</id>
+        <link href="https://www.meiyan.in/post/7-yue-24-ri-zhou-hui/">
         </link>
-        <updated>2020-05-13T02:33:00.000Z</updated>
-        <content type="html"><![CDATA[<p>李涛</p>
+        <updated>2020-07-24T10:44:16.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://www.meiyan.in//post-images/1595592414891.jpg" alt="" loading="lazy"><br>
+市场部<br>
+本月目标190万，当前完成165万，差24万</p>
+<p>项目部<br>
+人力外包需求挖掘，认证了2家人力外包服务商<br>
+兼职招聘需求挖掘</p>
+<p>产品技术部<br>
+419版本已经全面进入开发，产品助理初步进入状态</p>
+<p>人事行政<br>
+前两周工作总结已提交<br>
+今天下午提交了8份前端简历，暂未发现特别合适的，6份待技术面试</p>
+<p>产品技术部本周工作总结<br>
+核心工作<br>
+产品进度<br>
+当前版本进度正常，第一阶段已完成80%左右，预计周末两天联调完<br>
+团队建设<br>
+一共筛选了10份前端简历，6份，远程前端也在看<br>
+驻场，产品助理初步进入状态，项目进度、测试细节能力需要加强，<br>
+后端工作时间排得比较满，态度主要是时间问题<br>
+产品经理工作强度，建自己的官网<br>
+时间已经到了，不合适的<br>
+自由工作作息时间问题，严管<br>
+工作投入度、客户第一</p>
+<p>一、雇佣项目对接效率优化<br>
+二、云端、雇佣转兼职招聘</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[移动端]]></title>
-        <id>https://www.meiyan.in//post/yi-dong-duan</id>
-        <link href="https://www.meiyan.in//post/yi-dong-duan">
+        <title type="html"><![CDATA[7月22日]]></title>
+        <id>https://www.meiyan.in/post/7-yue-22-ri/</id>
+        <link href="https://www.meiyan.in/post/7-yue-22-ri/">
         </link>
-        <updated>2020-05-12T03:52:00.000Z</updated>
-        <content type="html"><![CDATA[<p>预定方案<br>
-1.优先远程工作<br>
-2.可先看一名驻场</p>
-<p>Android端<br>
-招两名，交替开发<br>
-解决工资发放模式问题<br>
-iOS端<br>
-招两名，交替开发<br>
-白天<br>
-需求方向：<br>
-舍近求远<br>
-1.后端提前做好，白天、周末，需要后端联调，时间表，甘特图<br>
-2.近期项目忙1-2月<br>
-3.薪资发放</p>
+        <updated>2020-07-22T08:31:23.000Z</updated>
+        <content type="html"><![CDATA[<p>一、关于产品BUG</p>
+<p>留足测试时间，严格测试<br>
+开发自测：接口测试；大需求前后端都要测试； bug<br>
+产品测试：转测及时验收<br>
+全路径走测：建立测试用例、严格按步骤；APP先验收完功能再全面走测；轮换<br>
+自动化测试：接口测试-待确认方案</p>
+<p>二、产品、技术工作积极性问题</p>
+<p>三、后期解决方案</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[程序员客栈技术负责人职责要求]]></title>
-        <id>https://www.meiyan.in//post/cheng-xu-yuan-ke-zhan-ji-zhu-fu-ze-ren-zhi-ze-yao-qiu</id>
-        <link href="https://www.meiyan.in//post/cheng-xu-yuan-ke-zhan-ji-zhu-fu-ze-ren-zhi-ze-yao-qiu">
+        <title type="html"><![CDATA[7月20日-兼职招聘周会]]></title>
+        <id>https://www.meiyan.in/post/7-yue-20-ri-jian-zhi-zhao-pin-zhou-hui/</id>
+        <link href="https://www.meiyan.in/post/7-yue-20-ri-jian-zhi-zhao-pin-zhou-hui/">
         </link>
-        <updated>2020-05-08T08:51:03.000Z</updated>
-        <content type="html"><![CDATA[<p>1.技术评审<br>
-主持并安排技术评审、确认版本排期<br>
-2.过程管理<br>
-按照版本排期，管理开发团队进度<br>
-3.主持发版上线<br>
-每个版本测试验收完后，主持发版上线<br>
-4.系统稳定性<br>
-负责系统稳定性，每月至少主动组织排查两次系统安全性隐患问题，可以根据以往的事故复盘入手<br>
-5.开发任务分派<br>
-负责安排分派团队其它后端、前端、移动端人员工作任务，并按期检查工作情况<br>
-6.团队稳定<br>
-负责新人的技术面试</p>
+        <updated>2020-07-20T11:00:49.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>项目部</strong><br>
+从存量业务，云端工作、雇佣项目里面找<br>
+去年11月份起，300多驻场<br>
+近半年，600个开发者没有接单</p>
+<p>产品技术部：<br>
+为程序员提升能力的前提，加强平台数据<br>
+灵鸽、58到家、<br>
+聚焦收窄<br>
+技术人力<br>
+认证-牛客网<br>
+单纯做人力外包风险大<br>
+技术信用，信息扩宽</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5月8日]]></title>
-        <id>https://www.meiyan.in//post/5-yue-8-ri</id>
-        <link href="https://www.meiyan.in//post/5-yue-8-ri">
+        <title type="html"><![CDATA[7月10日周会]]></title>
+        <id>https://www.meiyan.in/post/7-yue-10-ri-zhou-hui/</id>
+        <link href="https://www.meiyan.in/post/7-yue-10-ri-zhou-hui/">
         </link>
-        <updated>2020-05-08T02:11:49.000Z</updated>
-        <content type="html"><![CDATA[<p>程序员画像<br>
-兼职、全职、在职、在找工作状态<br>
-收入画像-会员<br>
-登录情况，1年之内<br>
-签约情况，提交次数、失败<br>
-接单意愿<br>
-搜索关键字<br>
-画像、维度</p>
-<p>当前工作状态：<br>
-兼职、全职、找工作<br>
-签约情况：<br>
-已签约   未签约<br>
-收入情况：<br>
-全部 3个月内 6个月内 1年内<br>
-活跃度：<br>
-接单意愿<br>
-登录情况<br>
-技术信用完善度</p>
-<p>搜索功能：<br>
-1.全局搜索<br>
-2.局部搜索跟分类联动</p>
-<p>面向企业用户的CRM管理系统</p>
-<p>+1-8586667361</p>
+        <updated>2020-07-10T10:50:04.000Z</updated>
+        <content type="html"><![CDATA[<p>一、产品进度<br>
+当前移动端遗留问题较少，预计7月11日上线<br>
+web端还剩程序员画像，预计7月11日上线<br>
+419版本需求，完成90%左右<br>
+下半年工作计划https://shimo.im/docs/hRdYXvKJHh8WrxKh/ 《2020年产品技术部部门下半年工作目标》<br>
+二、团队建设<br>
+洪舒安排配合张佳恒工作<br>
+刘坤刚刚接手418版本需求，接着会参加419版本开发<br>
+产品助理陈艳宇，细节不够，缺乏方法<br>
+三、本周美洽客服<br>
+美洽日报<br>
+后台意见反馈正常处理<br>
+用户投诉问题：大熊云端项目结薪、海咪回复消息慢<br>
+用户意见反馈、BUG问题，每周收集汇总：https://shimo.im/sheets/k9PtywPpYhqWX6vj/MODOC</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5月6日-陈忠]]></title>
-        <id>https://www.meiyan.in//post/5-yue-6-ri-chen-zhong</id>
-        <link href="https://www.meiyan.in//post/5-yue-6-ri-chen-zhong">
+        <title type="html"><![CDATA[419细节优化]]></title>
+        <id>https://www.meiyan.in/post/419-xi-jie-you-hua/</id>
+        <link href="https://www.meiyan.in/post/419-xi-jie-you-hua/">
         </link>
-        <updated>2020-05-06T14:05:30.000Z</updated>
-        <content type="html"><![CDATA[<p>1.没有时间，5月份比较忙，9点--11点下班<br>
-2.下周</p>
+        <updated>2020-07-08T06:14:37.000Z</updated>
+        <content type="html"><![CDATA[<p>1.用户画像，列表化，关键用户行为特征<br>
+2.兼职招聘，用户回复消息的分档<br>
+3.企业视角-程序员-兼职、人力外包（云端工作）<br>
+企业视角-程序员-人力外包<br>
+4.程序员-视角-兼职</p>
+<p>会员</p>
+<p>用户画像：<br>
+1.常用设备、活跃时间、金额</p>
+<p>2.行为特征，设备<br>
+3.行为特征样式<br>
+其它行为</p>
+<p>二、兼职招聘<br>
+1.岗位列表样式<br>
+三<br>
+1.分类，筛选样式优化<br>
+工作台区分人力、开发，解决方案整合<br>
+会员单独分类</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5月6日]]></title>
-        <id>https://www.meiyan.in//post/5-yue-6-ri</id>
-        <link href="https://www.meiyan.in//post/5-yue-6-ri">
+        <title type="html"><![CDATA[418测试问题汇总]]></title>
+        <id>https://www.meiyan.in/post/418-ce-shi-wen-ti-hui-zong/</id>
+        <link href="https://www.meiyan.in/post/418-ce-shi-wen-ti-hui-zong/">
         </link>
-        <updated>2020-05-06T07:01:32.000Z</updated>
-        <content type="html"><![CDATA[<p>一、流程问题<br>
-1.HR初步面<br>
-2.产品+技术一起面<br>
-3.老板面<br>
-二、技术要求变更<br>
-1.前端能独立做项目<br>
-2.后端能独立做项目<br>
-3.产品助理<br>
-三、肖振离职流程<br>
-15号离开，离开前把手上的工作做完<br>
-如果没做完，怎么办？</p>
+        <updated>2020-07-07T13:27:43.000Z</updated>
+        <content type="html"><![CDATA[<p>Android端：<br>
+1.实名认证报系统错误，需要和后端一起检查一下<br>
+2.tab栏-我的，技术信用icon用错了<br>
+3.tab栏-我的，技术信用在”企业版“身份下，不要给入口<br>
+4.技术信用展示页，顶部tab按钮，去掉和底部滑动自动切换的逻辑<br>
+5.技术信用展示页，底部的空白留太多了，需要删掉一部分<br>
+6.全栈搜索，输入一个文字搜索的时候，toas提示的文案不对<br>
+7.全栈搜索-文章类型-更多，需要隐藏掉顶部的菜单banner--前端H5页</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5月1日]]></title>
-        <id>https://www.meiyan.in//post/5-yue-1-ri</id>
-        <link href="https://www.meiyan.in//post/5-yue-1-ri">
+        <title type="html"><![CDATA[7月6日-兼职招聘]]></title>
+        <id>https://www.meiyan.in/post/7-yue-6-ri-jian-zhi-zhao-pin/</id>
+        <link href="https://www.meiyan.in/post/7-yue-6-ri-jian-zhi-zhao-pin/">
         </link>
-        <updated>2020-05-01T06:23:39.000Z</updated>
-        <content type="html"><![CDATA[<p>门户网站时代：主编时代，门户网站（搜狐）<br>
-搜索引擎时代：搜索引擎，满足用户画像（百度）</p>
-<p>移动端互联网时代：<br>
-智能推荐时代（字节跳动）<br>
-事件-漏斗-用户画像</p>
-<p>面向功能<br>
-签约+用户画像<br>
-工作地点位置信息，工作远程、兼职、离职</p>
+        <updated>2020-07-06T10:59:46.000Z</updated>
+        <content type="html"><![CDATA[<p>1.下载统计准确给一个具体的分析说明<br>
+Android所有的隐藏的下载入口<br>
+开发自查<br>
+友盟客服深入沟通，了解他们的统计规则<br>
+建议解决方案<br>
+兼职招聘发布事件转化率模型建好<br>
+APP数据重点关注新增用户、日活变化情况数量<br>
+2.完成下个版本兼职招聘相关需求评审，开始出设计稿<br>
+3.裂变模式</p>
+<p>人力外包公司</p>
+<p>7月6日<br>
+一、数据相关<br>
+APP数据重点关注新增用户、日活变化情况数量<br>
+二、完成任务相关<br>
+1.兼职招聘发布事件建立检测模型<br>
+2.APP新增用户自查结果<br>
+3.裂变模式暂未，人力外包-驻场招聘（博彦）、全职招聘</p>
+<p>下周<br>
+1.拉新运营方案，日活、新用户、新兼职招聘项目</p>
+<p>具体下跌的原因<br>
+岗位数量影响、行业影响<br>
+1.419营收模式闭环--有效微调<br>
+2.围绕全部用户数据生产<br>
+兼职流程数据生产入口闭环<br>
+3.邮箱裂变、裂变模式</p>
+<p>一、技术<br>
+1.刘坤洪舒变动<br>
+2.技术要求：<br>
+主动性、灵活性<br>
+二、产品<br>
+1.每周常规任务汇总<br>
+2.主动性、灵活性</p>
 ]]></content>
     </entry>
 </feed>
