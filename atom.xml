@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.meiyan.in/</id>
     <title>不言随笔</title>
-    <updated>2020-07-28T09:23:55.820Z</updated>
+    <updated>2020-07-28T09:58:19.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.meiyan.in/"/>
     <link rel="self" href="https://www.meiyan.in/atom.xml"/>
@@ -85,55 +85,6 @@ P4:充分测试，多体验产品，要对自己的产品细节功能了如指�
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7月24日周会]]></title>
-        <id>https://www.meiyan.in/post/7-yue-24-ri-zhou-hui/</id>
-        <link href="https://www.meiyan.in/post/7-yue-24-ri-zhou-hui/">
-        </link>
-        <updated>2020-07-24T10:44:16.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://www.meiyan.in//post-images/1595592414891.jpg" alt="" loading="lazy"><br>
-市场部<br>
-本月目标190万，当前完成165万，差24万</p>
-<p>项目部<br>
-人力外包需求挖掘，认证了2家人力外包服务商<br>
-兼职招聘需求挖掘</p>
-<p>产品技术部<br>
-419版本已经全面进入开发，产品助理初步进入状态</p>
-<p>人事行政<br>
-前两周工作总结已提交<br>
-今天下午提交了8份前端简历，暂未发现特别合适的，6份待技术面试</p>
-<p>产品技术部本周工作总结<br>
-核心工作<br>
-产品进度<br>
-当前版本进度正常，第一阶段已完成80%左右，预计周末两天联调完<br>
-团队建设<br>
-一共筛选了10份前端简历，6份，远程前端也在看<br>
-驻场，产品助理初步进入状态，项目进度、测试细节能力需要加强，<br>
-后端工作时间排得比较满，态度主要是时间问题<br>
-产品经理工作强度，建自己的官网<br>
-时间已经到了，不合适的<br>
-自由工作作息时间问题，严管<br>
-工作投入度、客户第一</p>
-<p>一、雇佣项目对接效率优化<br>
-二、云端、雇佣转兼职招聘</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7月22日]]></title>
-        <id>https://www.meiyan.in/post/7-yue-22-ri/</id>
-        <link href="https://www.meiyan.in/post/7-yue-22-ri/">
-        </link>
-        <updated>2020-07-22T08:31:23.000Z</updated>
-        <content type="html"><![CDATA[<p>一、关于产品BUG</p>
-<p>留足测试时间，严格测试<br>
-开发自测：接口测试；大需求前后端都要测试； bug<br>
-产品测试：转测及时验收<br>
-全路径走测：建立测试用例、严格按步骤；APP先验收完功能再全面走测；轮换<br>
-自动化测试：接口测试-待确认方案</p>
-<p>二、产品、技术工作积极性问题</p>
-<p>三、后期解决方案</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7月20日-兼职招聘周会]]></title>
         <id>https://www.meiyan.in/post/7-yue-20-ri-jian-zhi-zhao-pin-zhou-hui/</id>
         <link href="https://www.meiyan.in/post/7-yue-20-ri-jian-zhi-zhao-pin-zhou-hui/">
@@ -154,106 +105,556 @@ P4:充分测试，多体验产品，要对自己的产品细节功能了如指�
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7月10日周会]]></title>
-        <id>https://www.meiyan.in/post/7-yue-10-ri-zhou-hui/</id>
-        <link href="https://www.meiyan.in/post/7-yue-10-ri-zhou-hui/">
+        <title type="html"><![CDATA[2020年7月4日亚雯工作规划]]></title>
+        <id>https://www.meiyan.in/post/2020-nian-7-yue-4-ri-ya-wen/</id>
+        <link href="https://www.meiyan.in/post/2020-nian-7-yue-4-ri-ya-wen/">
         </link>
-        <updated>2020-07-10T10:50:04.000Z</updated>
-        <content type="html"><![CDATA[<p>一、产品进度<br>
-当前移动端遗留问题较少，预计7月11日上线<br>
-web端还剩程序员画像，预计7月11日上线<br>
-419版本需求，完成90%左右<br>
-下半年工作计划https://shimo.im/docs/hRdYXvKJHh8WrxKh/ 《2020年产品技术部部门下半年工作目标》<br>
-二、团队建设<br>
-洪舒安排配合张佳恒工作<br>
-刘坤刚刚接手418版本需求，接着会参加419版本开发<br>
-产品助理陈艳宇，细节不够，缺乏方法<br>
-三、本周美洽客服<br>
-美洽日报<br>
-后台意见反馈正常处理<br>
-用户投诉问题：大熊云端项目结薪、海咪回复消息慢<br>
-用户意见反馈、BUG问题，每周收集汇总：https://shimo.im/sheets/k9PtywPpYhqWX6vj/MODOC</p>
+        <updated>2020-07-04T03:58:58.000Z</updated>
+        <content type="html"><![CDATA[<p>1.HTML CSS<br>
+vue框架：2周<br>
+JavaScript：不熟悉<br>
+git</p>
+<p>2.行政、人事助理</p>
+<p>年终奖</p>
+<p>7-12月份<br>
+1.行政、人事助理</p>
+<p>2.7月份工作任务目标计划<br>
+任务一：<br>
+提供前端开发，学习路线规划<br>
+任务二：<br>
+一个月后考察前端技术，7月份会指派一些前端需求<br>
+按时保质量完成</p>
+<p>半年目标、年终奖的目标<br>
+1.基本价值观考核<br>
+2.部门基本目标（按时上线、不宕机）<br>
+3.初级前端开发考评合格（前端版本需求，能负责50%以上）</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[419细节优化]]></title>
-        <id>https://www.meiyan.in/post/419-xi-jie-you-hua/</id>
-        <link href="https://www.meiyan.in/post/419-xi-jie-you-hua/">
+        <title type="html"><![CDATA[产品经理常用工具]]></title>
+        <id>https://www.meiyan.in/post/chan-pin-jing-li-chang-yong-gong-ju/</id>
+        <link href="https://www.meiyan.in/post/chan-pin-jing-li-chang-yong-gong-ju/">
         </link>
-        <updated>2020-07-08T06:14:37.000Z</updated>
-        <content type="html"><![CDATA[<p>1.用户画像，列表化，关键用户行为特征<br>
-2.兼职招聘，用户回复消息的分档<br>
-3.企业视角-程序员-兼职、人力外包（云端工作）<br>
-企业视角-程序员-人力外包<br>
-4.程序员-视角-兼职</p>
-<p>会员</p>
-<p>用户画像：<br>
-1.常用设备、活跃时间、金额</p>
-<p>2.行为特征，设备<br>
-3.行为特征样式<br>
-其它行为</p>
-<p>二、兼职招聘<br>
-1.岗位列表样式<br>
-三<br>
-1.分类，筛选样式优化<br>
-工作台区分人力、开发，解决方案整合<br>
-会员单独分类</p>
+        <updated>2020-06-28T08:27:34.000Z</updated>
+        <content type="html"><![CDATA[<p>备注：<br>
+部分工具排名有先后，排名靠前表示我使用更多，推荐指数高<br>
+部分工具暂无/或暂未添加网址，可自行搜索<br>
+部分工具具备多项功能，可能会重复<br>
+部分工具可能分类略微不准，但这不重要，重要的是可用<br>
+部分网站可能已关闭，暂未一一验证<br>
+本文档将会持续更新</p>
+<p>产品经理社区<br>
+PMCAFF：http://www.pmcaff.com/site/feed<br>
+人人都是产品经理：http://www.woshipm.com/<br>
+产品100：http://www.chanpin100.com/<br>
+互联网的一些事儿：http://www.yixieshi.com/<br>
+互联网的那些事儿：http://www.alibuybuy.com/<br>
+互联网er的早读课：https://www.zaodula.com/<br>
+我常用的<br>
+PMCAFF：http://www.pmcaff.com/site/feed</p>
+<p>体验设计<br>
+Dribbble<br>
+Behance<br>
+优设：http://www.uisdc.com/<br>
+站酷：http://www.zcool.com.cn/<br>
+UI中国：https://www.ui.cn/<br>
+腾讯CDC：http://cdc.tencent.com/<br>
+腾讯ISUX：http://isux.tencent.com/<br>
+腾讯MXD：https://mxd.tencent.com/<br>
+腾讯网UED：http://ued.qq.com/<br>
+腾讯设计导航：https://idesign.qq.com/#!index/feed<br>
+淘宝UED：https://fed.taobao.org/<br>
+SDC设计师⽹址导航：https://hao.uisdc.com/<br>
+设计服务平台<br>
+犸良：https://design.alipay.com/emotion<br>
+鹿班：https://luban.aliyun.com/<br>
+智能物料设计：https://chitu.alipay.com/<br>
+我常用的<br>
+站酷：http://www.zcool.com.cn/<br>
+UI中国：https://www.ui.cn/</p>
+<p>知识管理工具<br>
+在线文档协作<br>
+石墨文档：https://shimo.im/dashboard/used<br>
+腾讯文档：https://docs.qq.com/desktop/<br>
+Notion：https://www.notion.so/<br>
+语雀：https://www.yuque.com/dashboard<br>
+幕布：https://mubu.com/login?next=/list<br>
+OneNote：https://www.onenote.com/signin?wdorigin=ondc<br>
+Quip：https://quip.com/<br>
+Trello：https://trello.com/<br>
+本地文档<br>
+印象笔记：https://www.yinxiang.com/<br>
+有道云笔记：http://note.youdao.com/<br>
+为知笔记：https://www.wiz.cn/zh-cn<br>
+数据协作<br>
+伙伴云表格：https://www.huoban.com/<br>
+脑图 &amp; 流程图<br>
+石墨文档：https://shimo.im/dashboard/used<br>
+Xmind：https://www.xmind.cn/<br>
+MindNode：https://mindnode.com/<br>
+ProcessOn：https://www.processon.com/<br>
+百度脑图：https://naotu.baidu.com/<br>
+我常用的<br>
+石墨文档：https://shimo.im/dashboard/used<br>
+腾讯文档：https://docs.qq.com/desktop/<br>
+语雀：https://www.yuque.com/dashboard<br>
+幕布：https://mubu.com/login?next=/list</p>
+<p>效率与项目管理工具<br>
+效率工具<br>
+To Do：https://to-do.live.com/tasks/<br>
+日事清：https://www.rishiqing.com/app/todo<br>
+Notion：https://www.notion.so/<br>
+项目管理工具<br>
+TAPD：https://www.tapd.cn/<br>
+Tower：https://tower.im/<br>
+Teambition：https://www.teambition.com/<br>
+Worktile：https://worktile.com/<br>
+Workflow：http://www.workflow.is/<br>
+禅道：https://www.zentao.net/<br>
+Project：https://www.microsoft.com/<br>
+SVN<br>
+我常用的<br>
+To Do：https://to-do.live.com/tasks/<br>
+Notion：https://www.notion.so/<br>
+TAPD：https://www.tapd.cn/</p>
+<p>行业报告<br>
+CNbeta：http://www.cnbeta.com/<br>
+易观智库：http://www.analysys.cn/<br>
+艾瑞咨询：http://www.iresearch.com.cn/<br>
+亿邦动力网：http://www.ebrun.com/<br>
+天下网商：http://www.iwshang.com/Home.html<br>
+InfoQ：http://www.infoq.com/cn/<br>
+36大数据：http://www.36dsj.com/<br>
+App Annie：http://www.199it.com/archives/tag/app-annie<br>
+百度指数：http://index.baidu.com/<br>
+我常用的<br>
+易观智库：http://www.analysys.cn/<br>
+艾瑞咨询：http://www.iresearch.com.cn/<br>
+亿邦动力网：http://www.ebrun.com/<br>
+App Annie：http://www.199it.com/archives/tag/app-annie</p>
+<p>科学上网<br>
+shadowsocks：https://shadowsocks.nu/<br>
+QuickQ：https://www.kkjs.site/<br>
+熊猫翻滚：https://pandafan.zone/dashboard/236072<br>
+SocketPro：https://www.socketpro.net/zh/home<br>
+旋风加速器：https://www.bpq0aozi.com/android.html<br>
+V2BOX：https://v2box.net/#/login<br>
+我常用的<br>
+QuickQ：https://www.kkjs.site/<br>
+hadowso<br>
+大数据分析<br>
+公开的数据<br>
+国家数据：http://data.stats.gov.cn/index.htm<br>
+CEIC：http://www.ceicdata.com/zh-hans<br>
+wind（万得）：http://www.wind.com.cn/<br>
+搜数网：http://www.soshoo.com/<br>
+中国统计信息网：http://www.tjcn.org/<br>
+亚马逊aws：http://aws.amazon.com/cn/datasets/?nc1=h_ls<br>
+figshare：https://figshare.com/<br>
+github：https://github.com/caesar0301/awesome-public- datasets<br>
+数据交易平台<br>
+优易数据：http://www.youedata.com/<br>
+数据堂：http://www.datatang.com/<br>
+网络指数<br>
+百度指数：http://index.baidu.com/<br>
+阿里指数：https://alizs.taobao.com/<br>
+艾瑞咨询：http://www.iresearch.com.cn/<br>
+友盟指数：http://www.umeng.com/<br>
+爱奇艺指数：http://index.iqiyi.com/<br>
+猫眼专业版：http://piaofang.maoyan.com/<br>
+易观千帆：https://qianfan.analysys.cn/<br>
+CNbeta：https://www.cnbeta.com/<br>
+网络采集器<br>
+火车采集器：http://www.locoy.com/<br>
+八爪鱼：http://www.bazhuayu.com/<br>
+集搜客：http://www.gooseeker.com/<br>
+第三方数据分析<br>
+神策数据：https://www.sensorsdata.cn/auto<br>
+诸葛iO：https://zhugeio.com/<br>
+友盟：http://www.umeng.com/<br>
+growingIO：https://www.growingio.com/<br>
+网易大数据：https://bigdata.163.com/<br>
+GA：www.googleAnalytics.com<br>
+极光大数据：https://www.jiguang.cn/<br>
+百度统计：https://tongji.baidu.com/web/welcome/login<br>
+Talkingdata：https://www.talkingdata.com/<br>
+App数据<br>
+七麦数据：https://www.qimai.cn/<br>
+易观数据：https://www.analysys.cn/<br>
+腾讯移动分析：https://mta.qq.com/<br>
+小程序数据<br>
+阿拉丁小程序统计平台：<br>
+https://www.aldwx.com/<br>
+http://www.aldzs.com/<br>
+知微数据：http://www.zhiweidata.com/<br>
+公众号数据平台<br>
+清博指数：http://www.gsdata.cn/<br>
+新榜：https://www.newrank.cn/<br>
+其他数据<br>
+站长报告<br>
+乌云漏洞报告<br>
+调查派：https://www.diaochapai.com/<br>
+监控宝：https://www.jiankongbao.com/<br>
+网站分析在中国：http://www.chinawebanalytics.cn/<br>
+我常用的<br>
+神策数据：https://www.sensorsdata.cn/auto<br>
+阿拉丁：https://www.aldwx.com/，http://www.aldzs.com/<br>
+百度指数：http://index.baidu.com/<br>
+艾瑞咨询：http://www.iresearch.com.cn/</p>
+<p>图片素材网站<br>
+堆糖：http://www.duitang.com/<br>
+花瓣：http://huaban.com/<br>
+Pixabay：https://pixabay.com/<br>
+汤不热：https://www.tumblr.com/register/follow/gif<br>
+昵图网：http://www.nipic.com/index.html<br>
+Pexels：https://www.pexels.com/zh-cn/<br>
+视觉中国：https://www.vcg.com/<br>
+红动中国：http://www.redocn.com/<br>
+我常用的<br>
+Pixabay：https://pixabay.com/<br>
+Pexelss：https://www.pexels.com/zh-cn/<br>
+视觉中国：https://www.vcg.com/</p>
+<p>原型与托管工具<br>
+原型工具<br>
+Axure<br>
+Sketch：https://www.sketchapp.com/<br>
+墨刀：https://free.modao.cc/<br>
+Mockplus：https://www.mockplus.cn/<br>
+xiaopiu：https://www.xiaopiu.com/<br>
+原型托管工具<br>
+蓝湖：https://lanhuapp.com/?home<br>
+Axhub：https://axhub.im/desktop/recent<br>
+产品大牛：http://www.pmdaniu.com/user/flow<br>
+设计稿托管工具<br>
+Figma：https://www.figma.com/files/recent<br>
+我常用的<br>
+Axure<br>
+蓝湖：https://lanhuapp.com/?home</p>
+<p>运营工具<br>
+新媒体运营导航网站：https://www.kaolamedia.com/<br>
+文案导航：https://zan.useidea.com/<br>
+排版编辑工具<br>
+西瓜助手：http://www.xiguaji.com/Login#/UserBiz/UserBizList<br>
+秀米：http://xiumi.us/<br>
+i排版：http://ipaiban.com/bianji<br>
+新媒体排版：http://xmt.cn/paiban<br>
+易企秀：http://www.eqxiu.com/<br>
+兔展：https://www.rabbitpre.com/<br>
+MAKA：http://maka.im/<br>
+创客贴：https://www.chuangkit.com/<br>
+135编辑器：https://www.135editor.com/<br>
+96编辑器：https://bj.96weixin.com/<br>
+初页：http://www.ichuye.cn/<br>
+问卷调查<br>
+问卷：http://www.wenjuan.com/new<br>
+金数据：https://jinshuju.net/columbus<br>
+腾讯问卷：https://wj.qq.com/<br>
+小白盘：https://www.xiaobaipan.com/<br>
+图片文字识别：https://lb1.binzc.com/h5/superocr/login<br>
+剪客：http://www.vjianke.com/<br>
+草料二维码：http://cli.im/deqr<br>
+短链生成工具：<br>
+小码短链：https://xiaomark.com/<br>
+草料二维码：http://cli.im/deqr<br>
+Fiddler（抓包）<br>
+在线词频云分析工具：http://www.picdata.cn/picdata/index.php#<br>
+社群运营：http://www.grouplus.cn/<br>
+PDF压缩工具：https://smallpdf.com/cn<br>
+文本编辑：EmEditor<br>
+自动填表工具：Lastpass<br>
+麦客：http://www.mikecrm.com/</p>
+<p>充电学习<br>
+综合学习<br>
+B站：https://www.bilibili.com/<br>
+产品学习<br>
+三节课：https://www.sanjieke.cn/<br>
+极客时间：https://time.geekbang.org/column/article/13170<br>
+混沌大学：https://www.hundun.cn/<br>
+得到：https://www.igetget.com/<br>
+慕课网：https://www.imooc.com/<br>
+网易公开课：https://open.163.com/cuvocw/<br>
+网易云课堂：https://study.163.com/<br>
+腾讯课堂：https://ke.qq.com/<br>
+起点学院：https://www.qidianla.com/<br>
+新浪公开课：http://open.sina.com.cn/<br>
+技术学习<br>
+Code Combat：https://discourse.codecombat.com/<br>
+FreeCodeCamp：https://learn.freecodecamp.one/<br>
+coursera：https://www.coursera.org/<br>
+我常用的<br>
+B站：https://www.bilibili.com/<br>
+三节课：https://www.sanjieke.cn/<br>
+极客时间：https://time.geekbang.org/column/article/13170</p>
+<p>PPT素材<br>
+秋叶PPT：https://study.qiuyeppt.com/?utm=ppt_brand_1<br>
+旁门左道PPT（公众号&amp;知乎）<br>
+OfficePLUS：http://office.msn.com.cn/Template/Home.shtml<br>
+稻壳儿：http://www.docer.com/<br>
+PPTMind：http://www.pptmind.com/my?updated=true<br>
+逼格PPT：http://www.tretars.com/<br>
+PPT设计教程网：http://www.pptfans.cn/<br>
+五百丁：http://www.500d.me/<br>
+我图：http://www.ooopic.com/<br>
+presentationload：http://www.presentationload.com/<br>
+变色龙：https://www.ppt20.com/<br>
+优品：http://www.ypppt.com/<br>
+51PPT：http://www.51pptmoban.com/<br>
+我常用的<br>
+秋叶PPT：https://study.qiuyeppt.com/?utm=ppt_brand_1<br>
+旁门左道PPT</p>
+<p>阅读<br>
+豆瓣读书：https://book.douban.com/<br>
+微信读书：https://weread.qq.com/<br>
+网易蜗牛读书：https://du.163.com/<br>
+多看阅读：http://www.duokan.com/<br>
+我常用的<br>
+微信读书：https://weread.qq.com/</p>
+<p>沙龙活动<br>
+阿里技术沙龙：http://club.alibabatech.org/<br>
+IT龙门阵：http://www.techweb.com.cn/lmz/<br>
+活动行：https://www.huodongxing.com/<br>
+会鸽：https://www.eventdove.com/index.html<br>
+车库咖啡：http://www.chekucafe.com/</p>
+<p>科技媒体<br>
+虎嗅：https://www.huxiu.com/<br>
+36氪：https://36kr.com/<br>
+创业邦：http://www.demo8.com/<br>
+钛媒体：https://www.tmtpost.com/<br>
+极客公园：http://www.geekpark.net/<br>
+爱范儿：https://www.ifanr.com/<br>
+少数派：https://sspai.com/<br>
+ZEALER：https://www.zealer.com/<br>
+最美应用：http://zuimeia.com/<br>
+数字尾巴：https://www.dgtle.com/<br>
+IT桔子：https://www.itjuzi.com/<br>
+knewone：https://knewone.com/<br>
+动点：http://cn.technode.com/<br>
+我常用的<br>
+36氪：https://36kr.com/<br>
+创业邦：http://www.demo8.com/</p>
+<p>创投平台与知名风投<br>
+创投平台<br>
+创新工场<br>
+点名时间<br>
+IT桔子<br>
+17Startup<br>
+AngelCrunch<br>
+创投圈<br>
+缘创派<br>
+AngerlList<br>
+新芽<br>
+36氪创投频道<br>
+i黑马<br>
+同道会<br>
+投资界<br>
+知名风投<br>
+红杉资本<br>
+软银中国<br>
+真格基金<br>
+腾讯投资<br>
+创新工场<br>
+IDG资本<br>
+顺为基金<br>
+天使街<br>
+天使汇<br>
+天使湾<br>
+金沙江创投<br>
+启明创投</p>
+<p>资源下载<br>
+iconfont：http://www.iconfont.cn/<br>
+墨刀素材广场：https://modao.cc/square/mtk9b0z2zw5vezru<br>
+Ant design：https://ant.design/index-cn<br>
+Element：https://element.eleme.cn/#/zh-CN/component/tree<br>
+产品班：http://www.chanpinban.com/downloads/<br>
+免费软件下载：多用下载</p>
+<p>写字的地方<br>
+豆瓣：http://www.douban.com/<br>
+简书：http://www.jianshu.com/<br>
+知乎：https://www.zhihu.com/<br>
+微信公众号：https://mp.weixin.qq.com/cgi-bin/loginpage</p>
+<p>其他工具<br>
+文件云存储<br>
+Googledrive<br>
+Dropbox<br>
+坚果云<br>
+产品演示<br>
+夜神模拟器<br>
+安卓PC模拟机<br>
+系统增强工具<br>
+OfficeTab<br>
+CLOVER<br>
+测试工具<br>
+Firebug<br>
+Testcenter<br>
+Testin<br>
+腾讯wetest<br>
+数据可视化<br>
+excel三维图表<br>
+excel三维地图<br>
+BDP工具（Business Date Platform）<br>
+数据挖掘<br>
+SPSS<br>
+excel</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[418测试问题汇总]]></title>
-        <id>https://www.meiyan.in/post/418-ce-shi-wen-ti-hui-zong/</id>
-        <link href="https://www.meiyan.in/post/418-ce-shi-wen-ti-hui-zong/">
+        <title type="html"><![CDATA[实习生/应届毕业生]]></title>
+        <id>https://www.meiyan.in/post/shi-xi-sheng-ying-jie-bi-ye-sheng/</id>
+        <link href="https://www.meiyan.in/post/shi-xi-sheng-ying-jie-bi-ye-sheng/">
         </link>
-        <updated>2020-07-07T13:27:43.000Z</updated>
-        <content type="html"><![CDATA[<p>Android端：<br>
-1.实名认证报系统错误，需要和后端一起检查一下<br>
-2.tab栏-我的，技术信用icon用错了<br>
-3.tab栏-我的，技术信用在”企业版“身份下，不要给入口<br>
-4.技术信用展示页，顶部tab按钮，去掉和底部滑动自动切换的逻辑<br>
-5.技术信用展示页，底部的空白留太多了，需要删掉一部分<br>
-6.全栈搜索，输入一个文字搜索的时候，toas提示的文案不对<br>
-7.全栈搜索-文章类型-更多，需要隐藏掉顶部的菜单banner--前端H5页</p>
+        <updated>2020-06-04T08:34:22.000Z</updated>
+        <content type="html"><![CDATA[<p>1.在校经历简介<br>
+有没有当过班干<br>
+有没有搞过管理工作<br>
+大学期间最有成就最高的一件事<br>
+在创新中心做过项目没<br>
+参加过软件杯、ACM比赛没<br>
+大一：<br>
+创新中心、游戏<br>
+大二：<br>
+自学前端<br>
+生活委员<br>
+王晨、<br>
+2.谈谈你的项目经历<br>
+做过哪些项目<br>
+最好的是哪一个<br>
+简述一下从0-1的过程，你认为关键的节点有哪些？<br>
+协作过程中有没有遇到困难，技术问题、团队协作问题<br>
+遇到这些问题的时候你是如何解决的<br>
+你当项目负责人，是如何挑选队友的<br>
+有没有遇到过团队队友拖后腿的情况<br>
+3.对未来的职业规划是怎样的？<br>
+平时个人爱好有哪些<br>
+通过哪些渠道学习专业技术的</p>
+<p>为什么想转前端？<br>
+4.程序员客栈这边了解多少<br>
+通过什么途径了解到我们的，投递的<br>
+你是我们的产品用户？<br>
+产品的核心业务场景有哪些？<br>
+用户群体有哪些？<br>
+产品亮点、存在的问题<br>
+对我们这边有什么其它的想了解的，有哪些期望</p>
+<p>2.自我认知<br>
+个人优缺点<br>
+最大的优点，学习前端、看书、篮球<br>
+缺点有哪些<br>
+自己在班上专业开发水平段位<br>
+3.讲一讲你的实习经历<br>
+实习期间主要干哪些工作<br>
+做过哪些项目<br>
+遇到过问题没有，如何处理遇到的问题的？<br>
+4.<br>
+5.</p>
+<p>5.应届毕业生情况<br>
+班上大多数同学都找到工作没？<br>
+哪个城市？<br>
+有什么想要和学长了解的没</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7月6日-兼职招聘]]></title>
-        <id>https://www.meiyan.in/post/7-yue-6-ri-jian-zhi-zhao-pin/</id>
-        <link href="https://www.meiyan.in/post/7-yue-6-ri-jian-zhi-zhao-pin/">
+        <title type="html"><![CDATA[529前端面试]]></title>
+        <id>https://www.meiyan.in/post/529-qian-duan-mian-shi/</id>
+        <link href="https://www.meiyan.in/post/529-qian-duan-mian-shi/">
         </link>
-        <updated>2020-07-06T10:59:46.000Z</updated>
-        <content type="html"><![CDATA[<p>1.下载统计准确给一个具体的分析说明<br>
-Android所有的隐藏的下载入口<br>
-开发自查<br>
-友盟客服深入沟通，了解他们的统计规则<br>
-建议解决方案<br>
-兼职招聘发布事件转化率模型建好<br>
-APP数据重点关注新增用户、日活变化情况数量<br>
-2.完成下个版本兼职招聘相关需求评审，开始出设计稿<br>
-3.裂变模式</p>
-<p>人力外包公司</p>
-<p>7月6日<br>
-一、数据相关<br>
-APP数据重点关注新增用户、日活变化情况数量<br>
-二、完成任务相关<br>
-1.兼职招聘发布事件建立检测模型<br>
-2.APP新增用户自查结果<br>
-3.裂变模式暂未，人力外包-驻场招聘（博彦）、全职招聘</p>
-<p>下周<br>
-1.拉新运营方案，日活、新用户、新兼职招聘项目</p>
-<p>具体下跌的原因<br>
-岗位数量影响、行业影响<br>
-1.419营收模式闭环--有效微调<br>
-2.围绕全部用户数据生产<br>
-兼职流程数据生产入口闭环<br>
-3.邮箱裂变、裂变模式</p>
-<p>一、技术<br>
-1.刘坤洪舒变动<br>
-2.技术要求：<br>
-主动性、灵活性<br>
-二、产品<br>
-1.每周常规任务汇总<br>
-2.主动性、灵活性</p>
+        <updated>2020-05-29T06:37:14.000Z</updated>
+        <content type="html"><![CDATA[<p>产品面试<br>
+1.自我介绍一下<br>
+技术问题<br>
+2.对程序员客栈的了解<br>
+是否有了解过程序员客栈<br>
+3.谈一下你对远程工作团队协调的了解情况<br>
+坑：<br>
+文章沟通不方便<br>
+4.谈一下你对项目管理的了解情况<br>
+管理方式<br>
+如何面对需求不规范，开发过程中完善细节需求<br>
+如何面对远程工作工作时间协调问题<br>
+如何处理，时间异步处理<br>
+是否有带过新人，实习生<br>
+5.你有什么其它的想了解的？<br>
+对我个人的<br>
+对产品技术团队的<br>
+6.实际情况<br>
+项目简介，团队成员简介<br>
+代码乱，历史遗留的问题<br>
+不仅是管理工作<br>
+7.如何看待下列问题<br>
+抗压能力<br>
+加班、<br>
+改需求、项目复杂、代码乱<br>
+8.未来职业规划<br>
+优点、缺点</p>
+<p>宋一超<br>
+1.没有了解过远程工作<br>
+2.没有了解过程序员客栈<br>
+3.没有接触过管理，之前一直是被管理，没有带过新人<br>
+4.之前很少加班，基本每天6点半下班<br>
+5.之前上班没有遇到过什么压力</p>
+<p>黄佛送<br>
+1.有过远程协作初级经验<br>
+2.有过初级带新人的管理经验，一起加班帮助对方完成任务<br>
+3.上一份工作是因为加班太严重中，认为压力太大，不值得，干了2个月离职<br>
+4.薪资要求15K，可以谈<br>
+5.了解PHP</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[产品二面]]></title>
+        <id>https://www.meiyan.in/post/zhao-pin/</id>
+        <link href="https://www.meiyan.in/post/zhao-pin/">
+        </link>
+        <updated>2020-05-26T11:44:16.000Z</updated>
+        <content type="html"><![CDATA[<p>产品面试<br>
+1.自我介绍一下<br>
+技术问题<br>
+2.谈一下你对远程工作团队协调的了解<br>
+坑：<br>
+3.谈一下你对项目管理的了解<br>
+管理方式<br>
+我们当前遇到的问题，看下你的解决方案<br>
+如何面对需求不规范，开发过程中完善细节需求<br>
+如何面对远程工作工作时间协调问题<br>
+如何处理，时间异步处理<br>
+4.对程序员客栈的了解</p>
+<p>5.你有什么其它的想了解的？<br>
+对我个人的<br>
+对产品技术团队的<br>
+6.实际情况<br>
+项目简介，团队成员简介<br>
+代码乱，历史遗留的问题<br>
+不仅是管理工作<br>
+7.抗压能力<br>
+8.未来职业规划</p>
+<p>1.没有了解过远程工作<br>
+2.没有了解过程序员客栈<br>
+3.没有接触过管理，之前一直是被管理，没有带过新人<br>
+4.之前很少加班，基本每天6点半下班<br>
+5.之前上班没有遇到过什么压力</p>
+<p>一、后端</p>
+<p>二、重点工作</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青团宝充值记录]]></title>
+        <id>https://www.meiyan.in/post/qing-tuan-bao/</id>
+        <link href="https://www.meiyan.in/post/qing-tuan-bao/">
+        </link>
+        <updated>2020-05-26T09:58:43.000Z</updated>
+        <content type="html"><![CDATA[<p>充值记录<br>
+4月21  充值 10万<br>
+4月24  充值 10万<br>
+4月28  充值20万<br>
+5月8日 充值20万<br>
+5月12日 充值10万<br>
+5月15   充值10万<br>
+5月19   20万<br>
+5月22   20万<br>
+5月26   20万</p>
+<p>话术：<br>
+实在抱歉，由于我司系用接口调整未及时配置“程序员客栈”接口，导致各位在5.19日（包含）至5.26日提现操作没有成功扣除应缴的税费，实际到账的金额大于您在程序员客栈操作提现操作应得的金额，当前需要您退回的代缴税费的金额为：XXX元，可通过程序员客栈提现记录和银行卡实际到账记录，进行核实。<br>
+账户名：江西吉云信息科技有限公司<br>
+开户行：浙江网商银行<br>
+账号：8888888853463378</p>
 ]]></content>
     </entry>
 </feed>
