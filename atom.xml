@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.meiyan.in/</id>
     <title>不言随笔</title>
-    <updated>2020-07-28T09:58:19.878Z</updated>
+    <updated>2020-07-28T12:42:23.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.meiyan.in/"/>
     <link rel="self" href="https://www.meiyan.in/atom.xml"/>
@@ -10,24 +10,6 @@
     <logo>https://www.meiyan.in/images/avatar.png</logo>
     <icon>https://www.meiyan.in/favicon.ico</icon>
     <rights>All rights reserved 2020, 不言随笔</rights>
-    <entry>
-        <title type="html"><![CDATA[7月28日-前端面试]]></title>
-        <id>https://www.meiyan.in/post/7-yue-28-ri-qian-duan-mian-shi/</id>
-        <link href="https://www.meiyan.in/post/7-yue-28-ri-qian-duan-mian-shi/">
-        </link>
-        <updated>2020-07-28T07:01:32.000Z</updated>
-        <content type="html"><![CDATA[<p>技术水平+主动性+灵活性</p>
-<p>1.简单自我介绍一下<br>
-2.工作经历、项目经历<br>
-3.谈一下你对远程工作项目开发的了解<br>
-4.其它问题<br>
-对程序员客栈的了解<br>
-开发团队了解<br>
-工作环境了解<br>
-薪资要求</p>
-<h3 id="302610643">302610643</h3>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[7月27周会]]></title>
         <id>https://www.meiyan.in/post/7-yue-27-zhou-hui/</id>
@@ -102,32 +84,6 @@ P4:充分测试，多体验产品，要对自己的产品细节功能了如指�
 认证-牛客网<br>
 单纯做人力外包风险大<br>
 技术信用，信息扩宽</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020年7月4日亚雯工作规划]]></title>
-        <id>https://www.meiyan.in/post/2020-nian-7-yue-4-ri-ya-wen/</id>
-        <link href="https://www.meiyan.in/post/2020-nian-7-yue-4-ri-ya-wen/">
-        </link>
-        <updated>2020-07-04T03:58:58.000Z</updated>
-        <content type="html"><![CDATA[<p>1.HTML CSS<br>
-vue框架：2周<br>
-JavaScript：不熟悉<br>
-git</p>
-<p>2.行政、人事助理</p>
-<p>年终奖</p>
-<p>7-12月份<br>
-1.行政、人事助理</p>
-<p>2.7月份工作任务目标计划<br>
-任务一：<br>
-提供前端开发，学习路线规划<br>
-任务二：<br>
-一个月后考察前端技术，7月份会指派一些前端需求<br>
-按时保质量完成</p>
-<p>半年目标、年终奖的目标<br>
-1.基本价值观考核<br>
-2.部门基本目标（按时上线、不宕机）<br>
-3.初级前端开发考评合格（前端版本需求，能负责50%以上）</p>
 ]]></content>
     </entry>
     <entry>
@@ -498,143 +454,6 @@ excel</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[实习生/应届毕业生]]></title>
-        <id>https://www.meiyan.in/post/shi-xi-sheng-ying-jie-bi-ye-sheng/</id>
-        <link href="https://www.meiyan.in/post/shi-xi-sheng-ying-jie-bi-ye-sheng/">
-        </link>
-        <updated>2020-06-04T08:34:22.000Z</updated>
-        <content type="html"><![CDATA[<p>1.在校经历简介<br>
-有没有当过班干<br>
-有没有搞过管理工作<br>
-大学期间最有成就最高的一件事<br>
-在创新中心做过项目没<br>
-参加过软件杯、ACM比赛没<br>
-大一：<br>
-创新中心、游戏<br>
-大二：<br>
-自学前端<br>
-生活委员<br>
-王晨、<br>
-2.谈谈你的项目经历<br>
-做过哪些项目<br>
-最好的是哪一个<br>
-简述一下从0-1的过程，你认为关键的节点有哪些？<br>
-协作过程中有没有遇到困难，技术问题、团队协作问题<br>
-遇到这些问题的时候你是如何解决的<br>
-你当项目负责人，是如何挑选队友的<br>
-有没有遇到过团队队友拖后腿的情况<br>
-3.对未来的职业规划是怎样的？<br>
-平时个人爱好有哪些<br>
-通过哪些渠道学习专业技术的</p>
-<p>为什么想转前端？<br>
-4.程序员客栈这边了解多少<br>
-通过什么途径了解到我们的，投递的<br>
-你是我们的产品用户？<br>
-产品的核心业务场景有哪些？<br>
-用户群体有哪些？<br>
-产品亮点、存在的问题<br>
-对我们这边有什么其它的想了解的，有哪些期望</p>
-<p>2.自我认知<br>
-个人优缺点<br>
-最大的优点，学习前端、看书、篮球<br>
-缺点有哪些<br>
-自己在班上专业开发水平段位<br>
-3.讲一讲你的实习经历<br>
-实习期间主要干哪些工作<br>
-做过哪些项目<br>
-遇到过问题没有，如何处理遇到的问题的？<br>
-4.<br>
-5.</p>
-<p>5.应届毕业生情况<br>
-班上大多数同学都找到工作没？<br>
-哪个城市？<br>
-有什么想要和学长了解的没</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[529前端面试]]></title>
-        <id>https://www.meiyan.in/post/529-qian-duan-mian-shi/</id>
-        <link href="https://www.meiyan.in/post/529-qian-duan-mian-shi/">
-        </link>
-        <updated>2020-05-29T06:37:14.000Z</updated>
-        <content type="html"><![CDATA[<p>产品面试<br>
-1.自我介绍一下<br>
-技术问题<br>
-2.对程序员客栈的了解<br>
-是否有了解过程序员客栈<br>
-3.谈一下你对远程工作团队协调的了解情况<br>
-坑：<br>
-文章沟通不方便<br>
-4.谈一下你对项目管理的了解情况<br>
-管理方式<br>
-如何面对需求不规范，开发过程中完善细节需求<br>
-如何面对远程工作工作时间协调问题<br>
-如何处理，时间异步处理<br>
-是否有带过新人，实习生<br>
-5.你有什么其它的想了解的？<br>
-对我个人的<br>
-对产品技术团队的<br>
-6.实际情况<br>
-项目简介，团队成员简介<br>
-代码乱，历史遗留的问题<br>
-不仅是管理工作<br>
-7.如何看待下列问题<br>
-抗压能力<br>
-加班、<br>
-改需求、项目复杂、代码乱<br>
-8.未来职业规划<br>
-优点、缺点</p>
-<p>宋一超<br>
-1.没有了解过远程工作<br>
-2.没有了解过程序员客栈<br>
-3.没有接触过管理，之前一直是被管理，没有带过新人<br>
-4.之前很少加班，基本每天6点半下班<br>
-5.之前上班没有遇到过什么压力</p>
-<p>黄佛送<br>
-1.有过远程协作初级经验<br>
-2.有过初级带新人的管理经验，一起加班帮助对方完成任务<br>
-3.上一份工作是因为加班太严重中，认为压力太大，不值得，干了2个月离职<br>
-4.薪资要求15K，可以谈<br>
-5.了解PHP</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[产品二面]]></title>
-        <id>https://www.meiyan.in/post/zhao-pin/</id>
-        <link href="https://www.meiyan.in/post/zhao-pin/">
-        </link>
-        <updated>2020-05-26T11:44:16.000Z</updated>
-        <content type="html"><![CDATA[<p>产品面试<br>
-1.自我介绍一下<br>
-技术问题<br>
-2.谈一下你对远程工作团队协调的了解<br>
-坑：<br>
-3.谈一下你对项目管理的了解<br>
-管理方式<br>
-我们当前遇到的问题，看下你的解决方案<br>
-如何面对需求不规范，开发过程中完善细节需求<br>
-如何面对远程工作工作时间协调问题<br>
-如何处理，时间异步处理<br>
-4.对程序员客栈的了解</p>
-<p>5.你有什么其它的想了解的？<br>
-对我个人的<br>
-对产品技术团队的<br>
-6.实际情况<br>
-项目简介，团队成员简介<br>
-代码乱，历史遗留的问题<br>
-不仅是管理工作<br>
-7.抗压能力<br>
-8.未来职业规划</p>
-<p>1.没有了解过远程工作<br>
-2.没有了解过程序员客栈<br>
-3.没有接触过管理，之前一直是被管理，没有带过新人<br>
-4.之前很少加班，基本每天6点半下班<br>
-5.之前上班没有遇到过什么压力</p>
-<p>一、后端</p>
-<p>二、重点工作</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[青团宝充值记录]]></title>
         <id>https://www.meiyan.in/post/qing-tuan-bao/</id>
         <link href="https://www.meiyan.in/post/qing-tuan-bao/">
@@ -655,6 +474,93 @@ excel</p>
 账户名：江西吉云信息科技有限公司<br>
 开户行：浙江网商银行<br>
 账号：8888888853463378</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术负责人职责要求]]></title>
+        <id>https://www.meiyan.in/post/cheng-xu-yuan-ke-zhan-ji-zhu-fu-ze-ren-zhi-ze-yao-qiu/</id>
+        <link href="https://www.meiyan.in/post/cheng-xu-yuan-ke-zhan-ji-zhu-fu-ze-ren-zhi-ze-yao-qiu/">
+        </link>
+        <updated>2020-05-08T08:51:03.000Z</updated>
+        <content type="html"><![CDATA[<p>1.技术评审<br>
+主持并安排技术评审、确认版本排期<br>
+2.过程管理<br>
+按照版本排期，管理开发团队进度<br>
+3.主持发版上线<br>
+每个版本测试验收完后，主持发版上线<br>
+4.系统稳定性<br>
+负责系统稳定性，每月至少主动组织排查两次系统安全性隐患问题，可以根据以往的事故复盘入手<br>
+5.开发任务分派<br>
+负责安排分派团队其它后端、前端、移动端人员工作任务，并按期检查工作情况<br>
+6.团队稳定<br>
+负责新人的技术面试</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内容信息产品思路]]></title>
+        <id>https://www.meiyan.in/post/5-yue-1-ri/</id>
+        <link href="https://www.meiyan.in/post/5-yue-1-ri/">
+        </link>
+        <updated>2020-05-01T06:23:39.000Z</updated>
+        <content type="html"><![CDATA[<p>门户网站时代：主编时代，门户网站（搜狐）<br>
+搜索引擎时代：搜索引擎，满足用户画像（百度）<br>
+移动端互联网时代：<br>
+智能推荐时代（字节跳动）<br>
+事件-漏斗-用户画像</p>
+<p>面向功能<br>
+签约+用户画像<br>
+工作地点位置信息，工作远程、兼职、离职</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[服务商投诉]]></title>
+        <id>https://www.meiyan.in/post/fu-wu-shang-tou-su/</id>
+        <link href="https://www.meiyan.in/post/fu-wu-shang-tou-su/">
+        </link>
+        <updated>2020-04-29T06:36:45.000Z</updated>
+        <content type="html"><![CDATA[<p>2019年9月   发生一个云端团队纠纷<br>
+2019年9月   答应客户免费帮他开发网站<br>
+2019年11月  服务商入驻付费22800元<br>
+2020年3月   发生投诉</p>
+<p>1.自己服务的人自己优先处理<br>
+2.自己处理不了的，部门负责人来处理<br>
+3.部门负责人处理不了的，项目部来处理</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何看待远程自由工作]]></title>
+        <id>https://www.meiyan.in/post/4-yue-29-ri/</id>
+        <link href="https://www.meiyan.in/post/4-yue-29-ri/">
+        </link>
+        <updated>2020-04-29T02:26:28.000Z</updated>
+        <content type="html"><![CDATA[<p>你是如何看待自由工作的？<br>
+牛逼的人，在哪里都牛逼，牛逼的人能够自己改造环境，创建能量场<br>
+一般人，才需要环境来带动自己，借助其它人的能量场达到目标<br>
+如何判断自己是不是牛逼的人呢？<br>
+很好判断，当你总能把自己的失败，归根到其它人的时候，就说明此时还不是个牛逼的人。<br>
+只有极少数的人天赋异禀，这个在童年的时候就可以区分出来，从不牛逼到牛逼，是一个学习成长，打怪升级通关的过程<br>
+方法是不断的借助上级能量场，来提升自己的等级，成为当前能量场的顶部后，就应该更换到下一个更高级的能量场去历练</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发效率提升方案]]></title>
+        <id>https://www.meiyan.in/post/kai-fa-xiao-lu-ti-shi-fang-an/</id>
+        <link href="https://www.meiyan.in/post/kai-fa-xiao-lu-ti-shi-fang-an/">
+        </link>
+        <updated>2020-04-06T03:14:35.000Z</updated>
+        <content type="html"><![CDATA[<p>1.远程团队不变<br>
+驻场后端、前端各加一人（可推动进度的）<br>
+为什么需要驻场？因为驻场全职时间更自由，更好管理，符合管理规则<br>
+为什么需要前端？移动端和web端需要分开开发<br>
+2.结算工作交接</p>
+<p>3.当前能推到进度的3<br>
+4.共同工作时间<br>
+每天晚上3小时，周末8小时</p>
+<p>远程工作管理<br>
+需求技术评审很重要，评审完后，评定工期<br>
+1.按时完成自己承诺的工期<br>
+2.日报必须要提交<br>
+3.开发相关的消息，必须要回复</p>
 ]]></content>
     </entry>
 </feed>
