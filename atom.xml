@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.meiyan.in/</id>
     <title>程线多的blog</title>
-    <updated>2020-08-17T14:39:06.158Z</updated>
+    <updated>2020-08-18T03:05:56.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.meiyan.in/"/>
     <link rel="self" href="https://www.meiyan.in/atom.xml"/>
@@ -10,6 +10,57 @@
     <logo>https://www.meiyan.in/images/avatar.png</logo>
     <icon>https://www.meiyan.in/favicon.ico</icon>
     <rights>All rights reserved 2020, 程线多的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[深度用户调研：以用户为中心]]></title>
+        <id>https://www.meiyan.in/post/yong-hu-diao-yan-yi-yong-hu-wei-zhong-xin/</id>
+        <link href="https://www.meiyan.in/post/yong-hu-diao-yan-yi-yong-hu-wei-zhong-xin/">
+        </link>
+        <updated>2020-08-17T15:01:39.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="一-用户调研的定义">一、用户调研的定义</h1>
+<p>以用户为中心产品画布，通过用户调研设计功能，避免脱离用户实际需求<br>
+<img src="https://www.meiyan.in//post-images/1597676529339.png" alt="" loading="lazy"></p>
+<h2 id="什么是用户调研">什么是用户调研？</h2>
+<p>以少量的用户调研数据，保证设计的功能不脱离用户实际需求<br>
+用户调研方法：用户访谈、用户行为追踪、访问路径追踪</p>
+<h3 id="11为什么要做用户调研">1.1为什么要做用户调研？</h3>
+<p>需要了解用户对产品的使用过程<br>
+了解目标用户群使用场景和过程<br>
+总结分析用户的问题和流程<br>
+提出最合理的解决方案</p>
+<h3 id="12用户调研常见误区">1.2用户调研常见误区</h3>
+<p><strong>指望从用户调研中获得需求是产品经理懒惰的表现</strong>，不能指望单纯从用户反馈中获得需求，产品经理应该比用户更了解自己的产品细节，用户调研只能是验证需求，不能指望获得需求，用户反馈的问题都是显而易见的问题，当用户反馈的问题你没有想到的时候，意味着产品经理的工作能力是有问题的。<br>
+<strong>用户调研≠用户访谈</strong>，访谈只是其中一种形式一种方法，访谈不等于就是调研<br>
+<strong>把个体当整体</strong>，调研的用户量不够，以偏概全<br>
+<strong>从用户调研中找自我感觉的证明</strong><br>
+<strong>用户调研结论不要谈占比</strong> 因为访谈的数据是少量的用户群体，不是普查，没有说服性</p>
+<h3 id="13用户调研过程中最忌讳的事情">1.3用户调研过程中最忌讳的事情</h3>
+<p><strong>直接问用户想要什么、有什么需求</strong><br>
+<strong>直接问用户这个功能需求有没有用、好不好用</strong>用户的回答通常是“还可以”“有用”，在特定场景下问用户会不会使用，提供可选方案<br>
+<strong>快速打断用户</strong>打断用户，会造成用户不愿意反馈，当用户跑题时，需要及时打断<br>
+<strong>说服用户</strong>访谈调研的目的是听用户的想法反馈，观察用户怎么使用，如何体验，不是做个人产品思想推销<br>
+观察用户使用过程&gt;提问&gt;用户主动说</p>
+<h3 id="14用户调研常用工具">1.4用户调研常用工具</h3>
+<p><strong>web录屏软件</strong> Macbook+screenflow<br>
+<strong>app录屏软件</strong> iPhone+Macbook+AirServer<br>
+<strong>统计系统</strong> growingio、诸葛IO、appsee（国外应用）<br>
+<strong>录音笔</strong>用户访谈过程记录<br>
+<strong>电话、QQ、微信</strong>尽量见面聊，在线聊会有损耗<br>
+用户调研是植根于产品经理日常工作生活必备素质</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高级产品经理]]></title>
+        <id>https://www.meiyan.in/post/gao-ji-chan-pin-jing-li/</id>
+        <link href="https://www.meiyan.in/post/gao-ji-chan-pin-jing-li/">
+        </link>
+        <updated>2020-08-17T14:40:20.000Z</updated>
+        <content type="html"><![CDATA[<p>逻辑分析能力<br>
+需求理解阅读能力：还原+创造能力<br>
+项目推进能力<br>
+<img src="https://www.meiyan.in//post-images/1597675854547.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1597675967678.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[常用工具]]></title>
         <id>https://www.meiyan.in/post/chang-yong-gong-ju/</id>
@@ -768,42 +819,6 @@ excel</p>
 <p>1.自己服务的人自己优先处理<br>
 2.自己处理不了的，部门负责人来处理<br>
 3.部门负责人处理不了的，项目部来处理</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何看待远程自由工作]]></title>
-        <id>https://www.meiyan.in/post/4-yue-29-ri/</id>
-        <link href="https://www.meiyan.in/post/4-yue-29-ri/">
-        </link>
-        <updated>2020-04-29T02:26:28.000Z</updated>
-        <content type="html"><![CDATA[<p>你是如何看待自由工作的？<br>
-牛逼的人，在哪里都牛逼，牛逼的人能够自己改造环境，创建能量场<br>
-一般人，才需要环境来带动自己，借助其它人的能量场达到目标<br>
-如何判断自己是不是牛逼的人呢？<br>
-很好判断，当你总能把自己的失败，归根到其它人的时候，就说明此时还不是个牛逼的人。<br>
-只有极少数的人天赋异禀，这个在童年的时候就可以区分出来，从不牛逼到牛逼，是一个学习成长，打怪升级通关的过程<br>
-方法是不断的借助上级能量场，来提升自己的等级，成为当前能量场的顶部后，就应该更换到下一个更高级的能量场去历练</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发效率提升方案]]></title>
-        <id>https://www.meiyan.in/post/kai-fa-xiao-lu-ti-shi-fang-an/</id>
-        <link href="https://www.meiyan.in/post/kai-fa-xiao-lu-ti-shi-fang-an/">
-        </link>
-        <updated>2020-04-06T03:14:35.000Z</updated>
-        <content type="html"><![CDATA[<p>1.远程团队不变<br>
-驻场后端、前端各加一人（可推动进度的）<br>
-为什么需要驻场？因为驻场全职时间更自由，更好管理，符合管理规则<br>
-为什么需要前端？移动端和web端需要分开开发<br>
-2.结算工作交接</p>
-<p>3.当前能推到进度的3<br>
-4.共同工作时间<br>
-每天晚上3小时，周末8小时</p>
-<p>远程工作管理<br>
-需求技术评审很重要，评审完后，评定工期<br>
-1.按时完成自己承诺的工期<br>
-2.日报必须要提交<br>
-3.开发相关的消息，必须要回复</p>
 ]]></content>
     </entry>
 </feed>
