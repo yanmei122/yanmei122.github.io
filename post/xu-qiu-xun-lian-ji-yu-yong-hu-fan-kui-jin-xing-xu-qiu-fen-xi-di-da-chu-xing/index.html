@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta content="yes" name="apple-mobile-web-app-capable" />
+  <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+  <meta name="referrer" content="never">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <meta name="author" content="kveln">
+  <title>需求训练--基于用户反馈进行需求分析-闲鱼 | 程线多的blog</title>
+  <link href="https://cdn.bootcss.com/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+  <!-- <link href="https://www.meiyan.in//media/css/bootstrap.min.css" rel="stylesheet"> -->
+  <!--  <link href="https://www.meiyan.in//media/css/all.min.css" rel="stylesheet" type="text/css"> -->
+  <link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+  <link rel="alternate" type="application/rss+xml" title="需求训练--基于用户反馈进行需求分析-闲鱼 | 程线多的blog » Feed" href="https://www.meiyan.in//atom.xml">
+  <link rel="stylesheet"href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.10/build/styles/androidstudio.min.css">
+  <link href="https://www.meiyan.in//styles/main.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.10/build/highlight.min.js"></script>
+  <!-- <script src="https://www.meiyan.in//media/scripts/jquery.min.js"></script> -->
+  <script>hljs.initHighlightingOnLoad();</script>
+  
+
+    <meta property="og:description" content="需求训练--基于用户反馈进行需求分析-闲鱼"/>
+    <meta property="og:url" content="https://www.meiyan.in/post/xu-qiu-xun-lian-ji-yu-yong-hu-fan-kui-jin-xing-xu-qiu-fen-xi-di-da-chu-xing/"/>
+    <meta property="og:locale" content="zh-CN"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="程线多的blog"/>
+  </head>
+  <body>
+  	<!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="https://www.meiyan.in/">程线多的blog</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/">首页</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/archives">归档</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/tags">标签</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/post/about">关于</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/">摄影</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/">电影</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="http://www.pmdaily.cc/">导航</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/">友链</a>
+              
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('https://www.meiyan.in//media/images/home-bg.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+          	<span class="tags">
+          	 
+            <a href="https://www.meiyan.in/tag/1i8GrjFFn/" class="tag">学习笔记</a>
+            
+        </span>
+            <h1>需求训练--基于用户反馈进行需求分析-闲鱼</h1>
+            <span class="meta">
+            	Posted on
+              2019-07-09，4 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Post Content -->
+  <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <h2 id="一-收集闲鱼的用户反馈">一、收集闲鱼的用户反馈</h2>
+<p>目标一：至少收集40条用户关于闲鱼的差评反馈，并整理成表格<br>
+目标二：对用户反馈进行分类<br>
+获取闲鱼用户反馈的渠道<br>
+公开渠道：微博、知乎、贴吧、AppStore、华为应用商店、小米应用商店、百度手机助手、应用宝、豌豆荚<br>
+半公开渠道：闲鱼用户的朋友圈、闲鱼用户微信群聊天记录、闲鱼APP用户评价<br>
+内部渠道：客服电话、官网在线客服、后台意见反馈<br>
+考虑到实际情况，作为闲鱼外部人员，无法通过【半公开渠道】和【公开渠道】获取闲鱼用户的反馈数据，当前只能通过【公开渠道】来获取闲鱼用户的差评反馈数据<br>
+先来尝试微博、知乎、贴吧关键字搜索闲鱼用户反馈，分别得到的数据如下：<br>
+微博数据<br>
+<img src="https://www.meiyan.in//post-images/1562834484247.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1562834529741.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1562834550060.png" alt="" loading="lazy"><br>
+知乎数据：<a href="https://www.zhihu.com/question/311918370/answer/598107799">知乎数据</a><br>
+<img src="https://www.meiyan.in//post-images/1562834635985.png" alt="" loading="lazy"><br>
+接下来对于应用商店用户反馈数据，使用七麦、酷传进行AppStore、华为应用商店、小米应用商店、应用宝用户数据获取：<br>
+<img src="https://www.meiyan.in//post-images/1562834687632.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1562834711644.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1562834734913.png" alt="" loading="lazy"></p>
+<p>最终整理数据分类汇总结果：<br>
+<a href="https://shimo.im/sheets/Vilf7unccxwpG9n7/MODOC">数据汇总</a>《闲鱼用户差评数据分类汇总》</p>
+<h2 id="二-用户-场景-问题-现有解决方案详细分析问题还原问题场景">二、【用户-场景-问题-现有解决方案】详细分析问题，还原问题场景</h2>
+<figure data-type="image" tabindex="1"><img src="https://www.meiyan.in//post-images/1562834886891.png" alt="" loading="lazy"></figure>
+<h2 id="三-用户量发生频率的方法对需求进行优先级排序并说明理由">三、【用户量发生频率】的方法，对需求进行优先级排序，并说明理由</h2>
+<p>根据收集到的用户反馈数据，一共分为9大类<br>
+<img src="https://www.meiyan.in//post-images/1562834954872.png" alt="" loading="lazy"><br>
+四象限看用户量与发生频率<br>
+<img src="https://www.meiyan.in//post-images/1562834988998.png" alt="" loading="lazy"><br>
+<strong>1.用户量多、频率高</strong><br>
+BUG相关：BUG相关的问题主要集中在，闪退卡顿、ipad适应问题，其中闪退卡顿是最严重的问题，非常影响用户体验，ipad适应问题也应尽快解决。<br>
+商品相关：主要是假货问题反馈和商家违规商品审核问题，买家发现假货，无反馈渠道，卖家商品审核失败，理由不充分。<br>
+<strong>2.用户量多、频率低</strong><br>
+升级相关：强制更新使用，尽量在必要阶段使用，需要控制频率<br>
+推送相关：主要是推送频率问题和虚假推送问题，虚假推送问题非常影响用户体验，容易流失大量用户<br>
+搜索相关：搜索功能也是大量用户需要使用的功能，需关注搜索匹配算法准确度、推荐算法策略<br>
+返回功能相关：返回功能是用户在浏览商品经常使用的功能，可以考虑是否添加一键返回主页、返回分享源APP功能<br>
+<strong>3.用户量少、发生频率高</strong><br>
+客服相关：客服问题主要是投诉客服质量，其次是自动回复客服功能的吐槽，客服功能一般是用户在使用过程中遇到纠纷或其它问题才使用，故用户量不算太高<br>
+信息相关：缴费会员用户相对与核心功能的用户，用户量也不算太高，但会员用户一般都是比较精准忠实的用户，故会员用户反馈评论高的问题，也需重点对待<br>
+<strong>4.用户量少、频率低</strong><br>
+异常流程处理相关：闲鱼上偶尔会出现一些违法违规信息</p>
+<p><strong>综上所述，进行需求优先级排序：</strong><br>
+1.BUG相关<br>
+2.商品相关<br>
+3.搜索相关<br>
+4.推送相关<br>
+5.升级更新相关<br>
+6.返回功能相关<br>
+7.会员信息相关<br>
+8.客服相关<br>
+9.异常流程处理相关</p>
+
+          
+          <p class="next-post">下一篇：
+            <a href="https://www.meiyan.in/post/xu-qiu-xun-lian-shu-li-yong-hu-xu-qiu-de-fang-fa/">
+              <span class="post-title">
+                需求训练--分析用户需求的方法&rarr;
+              </span>
+            </a>
+          </p>
+        
+        <div class="comment">
+          
+        </div>
+      </div>
+    </div>
+  </article>
+ <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <ul class="list-inline text-center">
+            
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+              <li class="list-inline-item">
+              <a href="https://www.meiyan.in//atom.xml" target="_blank">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+              </li>
+          </ul>
+          <p class="copyright text-muted">Copyright &copy;<span>程线多的blog</span><br><a href="https://github.com/getgridea/gridea" class="Themeinfo">Powered by Gridea</a></p>
+        </div>
+      </div>
+    </div>
+   </footer>
+  <!-- Bootstrap core JavaScript -->
+  <script src="https://cdn.bootcss.com/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+  <!-- <script src="https://www.meiyan.in//media/scripts/bootstrap.bundle.min.js"></script> -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="https://cdn.jsdelivr.net/gh/Alanrk/clean-cdn@1.0/scripts/clean-blog.min.js"></script>
+  <!-- <script src="https://www.meiyan.in//media/scripts/clean-blog.min.js"></script> -->
+  <script src="//instant.page/3.0.0" type="module" defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
+  <style type="text/css">a.back_to_top{text-decoration:none;position:fixed;bottom:40px;right:30px;background:#f0f0f0;height:40px;width:40px;border-radius:50%;line-height:36px;font-size:18px;text-align:center;transition-duration:.5s;transition-propety:background-color;display:none}a.back_to_top span{color:#888}a.back_to_top:hover{cursor:pointer;background:#dfdfdf}a.back_to_top:hover span{color:#555}@media print,screen and(max-width:580px){.back_to_top{display:none!important}}</style>
+<a id="back_to_top" href="#" class="back_to_top">
+  <span>▲</span></a>
+<script>$(document).ready((function(_this) {
+    return function() {
+      var bt;
+      bt = $('#back_to_top');
+      if ($(document).width() > 480) {
+        $(window).scroll(function() {
+          var st;
+          st = $(window).scrollTop();
+          if (st > 30) {
+            return bt.css('display', 'block')
+          } else {
+            return bt.css('display', 'none')
+          }
+        });
+        return bt.click(function() {
+          $('body,html').animate({
+            scrollTop: 0
+          },
+          800);
+          return false
+        })
+      }
+    }
+  })(this));</script>
+  </body>
+</html>
+

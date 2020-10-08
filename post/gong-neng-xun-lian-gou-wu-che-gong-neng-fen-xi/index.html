@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta content="yes" name="apple-mobile-web-app-capable" />
+  <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+  <meta name="referrer" content="never">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <meta name="author" content="kveln">
+  <title>功能训练--购物车功能分析 | 程线多的blog</title>
+  <link href="https://cdn.bootcss.com/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+  <!-- <link href="https://www.meiyan.in//media/css/bootstrap.min.css" rel="stylesheet"> -->
+  <!--  <link href="https://www.meiyan.in//media/css/all.min.css" rel="stylesheet" type="text/css"> -->
+  <link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+  <link rel="alternate" type="application/rss+xml" title="功能训练--购物车功能分析 | 程线多的blog » Feed" href="https://www.meiyan.in//atom.xml">
+  <link rel="stylesheet"href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.10/build/styles/androidstudio.min.css">
+  <link href="https://www.meiyan.in//styles/main.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.10/build/highlight.min.js"></script>
+  <!-- <script src="https://www.meiyan.in//media/scripts/jquery.min.js"></script> -->
+  <script>hljs.initHighlightingOnLoad();</script>
+  
+
+    <meta property="og:description" content="功能训练--购物车功能分析"/>
+    <meta property="og:url" content="https://www.meiyan.in/post/gong-neng-xun-lian-gou-wu-che-gong-neng-fen-xi/"/>
+    <meta property="og:locale" content="zh-CN"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="程线多的blog"/>
+  </head>
+  <body>
+  	<!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="https://www.meiyan.in/">程线多的blog</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/">首页</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/archives">归档</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/tags">标签</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/post/about">关于</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/">摄影</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/">电影</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="http://www.pmdaily.cc/">导航</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/">友链</a>
+              
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('https://www.meiyan.in//media/images/home-bg.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+          	<span class="tags">
+          	 
+            <a href="https://www.meiyan.in/tag/1i8GrjFFn/" class="tag">学习笔记</a>
+            
+        </span>
+            <h1>功能训练--购物车功能分析</h1>
+            <span class="meta">
+            	Posted on
+              2019-07-17，3 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Post Content -->
+  <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <h2 id="一-调研对象对比分析">一、调研对象对比分析</h2>
+<figure data-type="image" tabindex="1"><img src="https://www.meiyan.in//post-images/1563357503460.png" alt="" loading="lazy"></figure>
+<h2 id="二-体验调研对象的具体功能点">二、体验调研对象的具体功能点</h2>
+<h3 id="体验每日优鲜购物车功能">体验每日优鲜购物车功能</h3>
+<p><strong>1.功能入口：</strong><br>
+  每日优鲜购物车功能，共有【 tab栏--购物车】、【商品详情页】、【H5专栏活动宣传页】、【搜索结果页】四个入口<br>
+入口1： tab栏--购物车 入口2：商品详情页 入口3：H5专栏活动宣传页 入口4：搜索结果页<br>
+<img src="https://www.meiyan.in//post-images/1563357575926.png" alt="" loading="lazy"><br>
+<strong>2.功能特点：</strong><br>
+（1）.商品详情页进入购物车页面方便<br>
+（2）.默认全选购物车<br>
+（3）.购物车商品推荐<br>
+（4）.直接管理收货地址<br>
+（5）.领券功能、凑单功能<br>
+（6）.一键添加、减少数量</p>
+<h3 id="体验淘宝购物车功能">体验淘宝购物车功能</h3>
+<p><strong>1.功能入口</strong><br>
+入口1： tab栏--购物车<br>
+    入口2：商品详情页--购物车<br>
+<img src="https://www.meiyan.in//post-images/1563357704755.png" alt="" loading="lazy"><br>
+<strong>2.功能特点</strong><br>
+（1）.一键清理                       （2）.收藏功能<br>
+（3）.进入店铺                       （4）.失效商品分类<br>
+（5）.相似商品推荐                （6）.“猜你喜欢“推荐商品<br>
+（7）.“比加入时降价”提醒 （8）.凑单提示<br>
+（9）.领券提示                       （10）.活动提示<br>
+（11）.直接修改商品属性      （12）.一键添加、减少数量</p>
+<h2 id="三-详细功能点对比分析">三、详细功能点对比分析</h2>
+<p><strong>【加入购物车】功能入口对比</strong><br>
+每日优鲜共有tab栏、商品详情页、H5专栏活动宣传页、搜索结果页，4个入口进入购物车；淘宝共有 tab栏、商品详情页，两个入口可以进入购物车；两块产品购物车功能，前两个入口设计类似，每日优鲜多出的H5专栏活动宣传页入口，可能是因为专栏活动宣传页去掉了APP的tab栏，保留最重要的购物车功能悬浮，让用户在浏览活动后，方便直接加入购物车或找到购物车付款结算。<br>
+<strong>【加入购物车】操作过程对比</strong><br>
+每日优鲜的商品加入购物车，可直接点商品商品详情页、分类页、活动宣传页“添加按钮”，商品动画播放直接加入被购物车；淘宝商品，必须在商品详情页才能加入购物车，用户在商品详情页底栏击“加入购物车”按钮后，首先会进入选择商品属性规格对话框，只有在选择属性规格后，才能被成功加入购物车。二者区别在与，每日优鲜的单个商品属性和规格被卖家提前设置好，用户在添加至购物车时，不需要重新设置。<br>
+<strong>详细功能点对比：</strong><br>
+<img src="https://www.meiyan.in//post-images/1563357882599.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1563357899231.png" alt="" loading="lazy"><br>
+<strong>【关于相同功能】</strong><br>
+很明显购物车公共功能有：查看商品详情、一键添加减少商品数量、商品活动信息展示、商品管理、全选取消全选、可能喜欢商品推荐、运费、合计、优惠信息展示、去结算修改确认订单信息。<br>
+<strong>【关于不同功能】</strong><br>
+每日优鲜：支持下单前在购物车里修改管理收货地址、默认全选所有商品、确认订单信息前强制选择优惠方案；<br>
+淘宝：支持查看商家信息、默认不全选所有商品、失效商品管理、收货地址在确认订单信息时才能改</p>
+
+          
+          <p class="next-post">下一篇：
+            <a href="https://www.meiyan.in/post/2019-xia-ban-nian-gui-hua/">
+              <span class="post-title">
+                2019下半年规划&rarr;
+              </span>
+            </a>
+          </p>
+        
+        <div class="comment">
+          
+        </div>
+      </div>
+    </div>
+  </article>
+ <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <ul class="list-inline text-center">
+            
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+              <li class="list-inline-item">
+              <a href="https://www.meiyan.in//atom.xml" target="_blank">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+              </li>
+          </ul>
+          <p class="copyright text-muted">Copyright &copy;<span>程线多的blog</span><br><a href="https://github.com/getgridea/gridea" class="Themeinfo">Powered by Gridea</a></p>
+        </div>
+      </div>
+    </div>
+   </footer>
+  <!-- Bootstrap core JavaScript -->
+  <script src="https://cdn.bootcss.com/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+  <!-- <script src="https://www.meiyan.in//media/scripts/bootstrap.bundle.min.js"></script> -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="https://cdn.jsdelivr.net/gh/Alanrk/clean-cdn@1.0/scripts/clean-blog.min.js"></script>
+  <!-- <script src="https://www.meiyan.in//media/scripts/clean-blog.min.js"></script> -->
+  <script src="//instant.page/3.0.0" type="module" defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
+  <style type="text/css">a.back_to_top{text-decoration:none;position:fixed;bottom:40px;right:30px;background:#f0f0f0;height:40px;width:40px;border-radius:50%;line-height:36px;font-size:18px;text-align:center;transition-duration:.5s;transition-propety:background-color;display:none}a.back_to_top span{color:#888}a.back_to_top:hover{cursor:pointer;background:#dfdfdf}a.back_to_top:hover span{color:#555}@media print,screen and(max-width:580px){.back_to_top{display:none!important}}</style>
+<a id="back_to_top" href="#" class="back_to_top">
+  <span>▲</span></a>
+<script>$(document).ready((function(_this) {
+    return function() {
+      var bt;
+      bt = $('#back_to_top');
+      if ($(document).width() > 480) {
+        $(window).scroll(function() {
+          var st;
+          st = $(window).scrollTop();
+          if (st > 30) {
+            return bt.css('display', 'block')
+          } else {
+            return bt.css('display', 'none')
+          }
+        });
+        return bt.click(function() {
+          $('body,html').animate({
+            scrollTop: 0
+          },
+          800);
+          return false
+        })
+      }
+    }
+  })(this));</script>
+  </body>
+</html>
+
