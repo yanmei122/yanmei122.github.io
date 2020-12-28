@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.meiyan.in/</id>
     <title>程线多的blog</title>
-    <updated>2020-12-21T12:16:19.642Z</updated>
+    <updated>2020-12-28T01:26:39.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.meiyan.in/"/>
     <link rel="self" href="https://www.meiyan.in/atom.xml"/>
@@ -11,6 +11,67 @@
     <icon>https://www.meiyan.in/favicon.ico</icon>
     <rights>All rights reserved 2020, 程线多的blog</rights>
     <entry>
+        <title type="html"><![CDATA[P2【7上线前后运营】]]></title>
+        <id>https://www.meiyan.in/post/p27-shang-xian-qian-hou-yun-ying/</id>
+        <link href="https://www.meiyan.in/post/p27-shang-xian-qian-hou-yun-ying/">
+        </link>
+        <updated>2020-12-24T09:27:46.000Z</updated>
+        <content type="html"><![CDATA[<p>上线前后运营</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P2【6项目管理进阶】]]></title>
+        <id>https://www.meiyan.in/post/p26-xiang-mu-guan-li-jin-jie/</id>
+        <link href="https://www.meiyan.in/post/p26-xiang-mu-guan-li-jin-jie/">
+        </link>
+        <updated>2020-12-24T09:27:20.000Z</updated>
+        <content type="html"><![CDATA[<p>项目管理进阶</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P2【5原型设计进阶】]]></title>
+        <id>https://www.meiyan.in/post/p25-yuan-xing-she-ji-jin-jie/</id>
+        <link href="https://www.meiyan.in/post/p25-yuan-xing-she-ji-jin-jie/">
+        </link>
+        <updated>2020-12-24T09:26:34.000Z</updated>
+        <content type="html"><![CDATA[<p>原型设计进阶</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P2【4功能与流程进阶】]]></title>
+        <id>https://www.meiyan.in/post/p24-gong-neng-yu-liu-cheng-jin-jie/</id>
+        <link href="https://www.meiyan.in/post/p24-gong-neng-yu-liu-cheng-jin-jie/">
+        </link>
+        <updated>2020-12-24T09:14:44.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="41复杂流程图设计">4.1复杂流程图设计</h2>
+<p>流程是功能设计的核心和基础<br>
+复杂功能的业务流程图如何做？<br>
+<strong>4.1.0了解泳道图</strong><br>
+<img src="https://www.meiyan.in//post-images/1608814690754.png" alt="" loading="lazy"><br>
+<strong>4.1.1先分析功能的关键逻辑</strong><br>
+角色：都有什么人参与到功能里<br>
+事项：分别扮演什么角色（要做什么事情）<br>
+信息的流向：要完成的任务，顺序（流程）是如何的？<br>
+<img src="https://www.meiyan.in//post-images/1608814892715.png" alt="" loading="lazy"><br>
+<strong>4.1.2明确用户与任务</strong><br>
+参与者：明确所有参与用户与系统，系统也作为一个角色参与<br>
+关系：简要梳理参与者的关系<br>
+目标：所有参与者，最终的目标是什么<br>
+<strong>4.1.3明确开始与结束的路径</strong><br>
+每个功能模块从哪里开始，到哪里结束<br>
+一般开始和结束只有一个，如果结束很多，就意味着用户会晕<br>
+是否需要区分时间阶段？<br>
+<strong>4.1.4确定功能模块和核心路径</strong><br>
+都有哪些功能模块会参与到流程中<br>
+主线流程核心流向一定要清晰<br>
+核心流向意味着功能目标，核心流向不清晰，用户一定不满意</p>
+<h2 id="42-需求池与版本优先级管理">4.2 需求池与版本优先级管理</h2>
+<h2 id="43-商业产品">4.3 商业产品</h2>
+<h2 id="44-制定功能的考核指标">4.4 制定功能的考核指标</h2>
+<h2 id="45-总结">4.5 总结</h2>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[P2【3.产品调研进阶】]]></title>
         <id>https://www.meiyan.in/post/p23chan-pin-diao-yan-jin-jie/</id>
         <link href="https://www.meiyan.in/post/p23chan-pin-diao-yan-jin-jie/">
@@ -18,19 +79,19 @@
         <updated>2020-11-29T08:06:15.000Z</updated>
         <content type="html"><![CDATA[<p>##3.1抄也是一门学问<br>
 <strong>产品分析和竞品调研</strong><br>
-<strong>1.产品分析与竞品调研的概念</strong><br>
-<strong>1.1为什么要做产品分析与调研？</strong><br>
+<strong>3.1.1产品分析与竞品调研的概念</strong><br>
+<strong>为什么要做产品分析与调研？</strong><br>
 产品分析：了解产品概况，具体功能模块的产品功能设计与逻辑<br>
 竞品调研：竞品检测，分析竞品情况<br>
 日常交流学习，提升产品感觉<br>
-<strong>1.2产品调研常见误区</strong><br>
+<strong>产品调研常见误区</strong><br>
 产品调研报告  不等于  行业分析报告<br>
 产品调研报告  不等于  产品体验报告<br>
 产品调研  不等于 写产品报告 （重点是调研过程）<br>
 不要用“看起来很高深的数据”的分析过程来证明自己的结论是靠谱的<br>
 不用期望通过竞品调研来证明自己的存在感（多看竞品优秀的地方）</p>
 <p>不做产品调研的PM是不合格的，优秀的PM一定能做好产品调研</p>
-<p><strong>2.产品分析与调研的方法</strong><br>
+<p><strong>3.1.2产品分析与调研的方法</strong><br>
 <img src="https://www.meiyan.in//post-images/1606638811926.png" alt="" loading="lazy"><br>
 <strong>2.1明确调研的背景与目的</strong><br>
 <img src="https://www.meiyan.in//post-images/1606639880256.png" alt="" loading="lazy"><br>
@@ -52,9 +113,60 @@
 <img src="https://www.meiyan.in//post-images/1606640927418.png" alt="" loading="lazy"><br>
 <strong>2.9推广报告</strong><br>
 内部分享：在公司内部建立分享会<br>
-外部发布：在第三方平台表达出来<br>
-##3.2产品初期针对行业的调研<br>
-##3.3总结</p>
+外部发布：在第三方平台表达出来</p>
+<p>##3.2产品初期针对行业的调研<br>
+<strong>关于PMF的概念</strong><br>
+产品脱离市场：足记<br>
+产品被市场套牢：诺基亚、柯达<br>
+<strong>3.2.1产业地图-产业链梳理与市场盘点</strong><br>
+产业地图包括三个方面：1.市场趋势和规模 2.产业链梳理：业务抽象化表达 3.主要玩家和商业模式<br>
+<img src="https://www.meiyan.in//post-images/1608809043051.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608809313693.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608809428249.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608809491511.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608809743134.png" alt="" loading="lazy"><br>
+<strong>3.2.2典型产品的结构化分析</strong><br>
+<img src="https://www.meiyan.in//post-images/1608809948458.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608810075923.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608810188379.png" alt="" loading="lazy"><br>
+核心业务结构：生产者-消费者之间的业务关系<br>
+<img src="https://www.meiyan.in//post-images/1608810259942.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608810372714.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608810961632.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608811015840.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608811044097.png" alt="" loading="lazy"><br>
+用户评价<br>
+<img src="https://www.meiyan.in//post-images/1608811107007.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608811114386.png" alt="" loading="lazy"><br>
+<strong>3.2.3典型用户画像与用户故事</strong><br>
+<img src="https://www.meiyan.in//post-images/1608811263070.png" alt="" loading="lazy"><br>
+用户画像是指通过数据描述的方式，勾画出产品中用户的统计特征、行为特征和心理特征的方法<br>
+价值：可以客观的描述用户的统计特征、行为特征和心理特征，能使产品和运营更加透明，需求描述更加清楚<br>
+风险：只是参考，无法确定核心需求，不能过度依赖<br>
+<img src="https://www.meiyan.in//post-images/1608811665949.png" alt="" loading="lazy"><br>
+<strong>3.2.4结论产出：机会&amp;风险</strong><br>
+<img src="https://www.meiyan.in//post-images/1608811766897.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608811840005.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1608812035820.png" alt="" loading="lazy"><br>
+<strong>3.2.5总结</strong><br>
+数据来源<br>
+<img src="https://www.meiyan.in//post-images/1608812244027.png" alt="" loading="lazy"><br>
+规划的核心是消灭未知的恐惧<br>
+产品分析的核心是避免别人踩过的坑<br>
+产品定位：我的机会、我的敌人<br>
+最后产品：市场机会和我们已有资源，交集出来的实施方案<br>
+从整体到细节的把控：产业链-典型产品-竞品玩家<br>
+做PMF（适应市场的产品）：产业地图-典型产品分析-用户画像与故事-结论实施方案</p>
+<p>##3.3总结<br>
+产品分析：了解产品情况，具体功能模块的产品设计逻辑<br>
+竞品调研：竞品监测，分析竞品的情况(借鉴)<br>
+日常交流学习，提升产品感觉<br>
+产品调研报告 ≠ 行业分析报告<br>
+产品调研报告 ≠ 产品体验报告<br>
+产品调研 ≠ 写产品报告<br>
+不要用“看起来很高深”的分析过程来证明自己的结论是靠谱的<br>
+不要期望通过竞品的调研来证明自己的存在感<br>
+产品调研流程：1.调研背景  2.明确背景 3.选择产品 4.体验产品 5.撰写报告 6.得出结论 7.分析产品 8.还原产品 9.推广报告</p>
 ]]></content>
     </entry>
     <entry>
@@ -249,153 +361,6 @@ HWM方案使用时机<br>
 <p>数学、生物学、化学、物理学、计算机</p>
 <h2 id="人文社会类">人文社会类</h2>
 <p>《资本论》《人类简述》《未来简史》《今日简史》</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[产品调研]]></title>
-        <id>https://www.meiyan.in/post/chan-pin-diao-yan/</id>
-        <link href="https://www.meiyan.in/post/chan-pin-diao-yan/">
-        </link>
-        <updated>2020-09-08T13:42:56.000Z</updated>
-        <content type="html"><![CDATA[<p>我们能提供的服务<br>
-1.签约、支付API聚合，一键切换<br>
-2.平台资质风险审核<br>
-3.更低的费率</p>
-<p>你们想要的服务<br>
-1.API聚合<br>
-2.风险管理<br>
-3.自行配置费率？<br>
-4.API流水账单管理？<br>
-5.财务审核需求有没？</p>
-<ol>
-<li>2-3周调研一下，银行有没有提供二清服务，帮助C端用户申请个体工商户代缴服务</li>
-<li>领薪宝API提供好之后可以接入</li>
-</ol>
-<p>1.代理自行配置问题，是不是可以自由配置<br>
-2.费率问题，你们官网挂的4.5，我们做代理谈的客户要高于5.0，如果用户直接找到你们，如何解释<br>
-3.你们的管理后台是否要收使用费</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[费率]]></title>
-        <id>https://www.meiyan.in/post/fei-lu/</id>
-        <link href="https://www.meiyan.in/post/fei-lu/">
-        </link>
-        <updated>2020-08-20T07:37:41.000Z</updated>
-        <content type="html"><![CDATA[<p>100-100*4.57%=95.43</p>
-<p>1000-1000*4.57%=954.3<br>
-1000/（1+4.57%)=956.3</p>
-<p>1-956.3/1000=4.37%<br>
-1000-1000*4.37%=956.3</p>
-<p>1-964.3/100=</p>
-<p>实际充值金额  =（提现金额-综合扣税）*（1+服务商税率）<br>
-实际到账 = 实际充值金额/（1+服务商税率）<br>
-应到金额=实际充值金额/（1+服务商费率）</p>
-<p>1W 20<br>
-10W 200<br>
-100W 2000<br>
-1000W 2W</p>
-<p>财务系统升级说明</p>
-<p>尊敬的各位签约开发者：<br>
-由于平台财务系统业务升级维护，2020年8月21日起至2020年8月28日，平台整包、云端项目结算、提现业务暂停，给各位带来的困扰，敬请谅解！<br>
-唐普<br>
-4.19.0版本更新内容：<br>
-1.登录注册流程优化<br>
-2.兼职招聘发布流程优化<br>
-3.整体业务架构优化<br>
-4.修复部分已知bug</p>
-<p>解决方案：<br>
-1.用户在未登录状态，屏蔽掉“我的”页面“企业会员”、“开发者会员”入口<br>
-2.提供给苹果的测试账号，用户登录后屏蔽掉“我的”页面“企业会员”、“开发者会员”入口</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P2【用户分析】1.1深度用户调研：以用户为中心]]></title>
-        <id>https://www.meiyan.in/post/yong-hu-diao-yan-yi-yong-hu-wei-zhong-xin/</id>
-        <link href="https://www.meiyan.in/post/yong-hu-diao-yan-yi-yong-hu-wei-zhong-xin/">
-        </link>
-        <updated>2020-08-17T15:01:39.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="用户调研的定义">用户调研的定义</h1>
-<p>以用户为中心产品画布，通过用户调研设计功能，避免脱离用户实际需求<br>
-<img src="https://www.meiyan.in//post-images/1597676529339.png" alt="" loading="lazy"></p>
-<h2 id="一-什么是用户调研">一、什么是用户调研？</h2>
-<p>以少量的用户调研数据，保证设计的功能不脱离用户实际需求<br>
-用户调研方法：用户访谈、用户行为追踪、访问路径追踪</p>
-<h3 id="11为什么要做用户调研">1.1为什么要做用户调研？</h3>
-<p>需要了解用户对产品的使用过程<br>
-了解目标用户群使用场景和过程<br>
-总结分析用户的问题和流程<br>
-提出最合理的解决方案</p>
-<h3 id="12用户调研常见误区">1.2用户调研常见误区</h3>
-<p><strong>指望从用户调研中获得需求是产品经理懒惰的表现</strong>，不能指望单纯从用户反馈中获得需求，产品经理应该比用户更了解自己的产品细节，用户调研只能是验证需求，不能指望获得需求，用户反馈的问题都是显而易见的问题，当用户反馈的问题你没有想到的时候，意味着产品经理的工作能力是有问题的。<br>
-<strong>用户调研≠用户访谈</strong>，访谈只是其中一种形式一种方法，访谈不等于就是调研<br>
-<strong>把个体当整体</strong>，调研的用户量不够，以偏概全<br>
-<strong>从用户调研中找自我感觉的证明</strong><br>
-<strong>用户调研结论不要谈占比</strong> 因为访谈的数据是少量的用户群体，不是普查，没有说服性</p>
-<h3 id="13用户调研过程中最忌讳的事情">1.3用户调研过程中最忌讳的事情</h3>
-<p><strong>直接问用户想要什么、有什么需求</strong><br>
-<strong>直接问用户这个功能需求有没有用、好不好用</strong>用户的回答通常是“还可以”“有用”，在特定场景下问用户会不会使用，提供可选方案<br>
-<strong>快速打断用户</strong>打断用户，会造成用户不愿意反馈，当用户跑题时，需要及时打断<br>
-<strong>说服用户</strong>访谈调研的目的是听用户的想法反馈，观察用户怎么使用，如何体验，不是做个人产品思想推销<br>
-观察用户使用过程&gt;提问&gt;用户主动说</p>
-<h3 id="14用户调研常用工具">1.4用户调研常用工具</h3>
-<p><strong>web录屏软件</strong> Macbook+screenflow<br>
-<strong>app录屏软件</strong> iPhone+Macbook+AirServer<br>
-<strong>统计系统</strong> growingio、诸葛IO、appsee（国外应用）<br>
-<strong>录音笔</strong>用户访谈过程记录<br>
-<strong>电话、QQ、微信</strong>尽量见面聊，在线聊会有损耗<br>
-用户调研是植根于产品经理日常工作生活必备素质</p>
-<h2 id="二-如何操作用户调研的过程">二、如何操作用户调研的过程</h2>
-<h3 id="21用户调研的过程">2.1用户调研的过程</h3>
-<p><strong>明确背景和目的</strong>-&gt;** 选择目标用户**-&gt;<strong>分析用户问题</strong>-&gt;<strong>准备调研内容</strong>-&gt;<strong>现场调研</strong>-&gt;<strong>总结报告</strong></p>
-<h3 id="22明确调研的背景和目的">2.2明确调研的背景和目的</h3>
-<p>**调研背景：**什么情况下发起的调研？是否必须通过用户调研来解决？<br>
-**调研目的：**希望通过用户调研，得到什么样的结果？<br>
-<strong>忌大而全</strong>调研的方向越聚焦，越有意义<br>
-<strong>忌假大空</strong>针对行业用户调研，针对满意度的调研，价值都不大<br>
-先明确调研背景和目的，再做调研<br>
-<img src="https://www.meiyan.in//post-images/1600357338683.png" alt="" loading="lazy"></p>
-<h3 id="23选择调研对象">2.3选择调研对象</h3>
-<p>1.基于背景和目的，先挑出大量符合行为的用户<br>
-2.选定部分目标用户，针对性分析（用户画像）<br>
-3.选定合适用户（时间、地点、感兴趣程度等）<br>
-4.邀约用户：直接说明目的，并告知可能发生的情况<br>
-数量：一般不超过5个用户</p>
-<h3 id="24猜测用户可能面临的问题是什么">2.4猜测用户可能面临的问题是什么</h3>
-<p>1.分析调研对象可能面临的问题和解决方案<br>
-2.猜测用户的需求并提出解决方案<br>
-3.把解决方案变成可执行的demo(原型、纸面等)观察用户反应</p>
-<h3 id="25准备任务和访谈提纲-并演习">2.5准备任务和访谈提纲、并演习</h3>
-<p>按照用户预设时间的2倍，去准备问题<br>
-标注必须要回答和用户操作的关键问题<br>
-准备用户必须操作的任务<br>
-把问题串起来，找同事预演一遍<br>
-总结和调整<br>
-<img src="https://www.meiyan.in//post-images/1600358348604.png" alt="" loading="lazy"></p>
-<h3 id="26调研现场">2.6调研现场</h3>
-<p>先缓和情绪，不着急一下子进入调研/访谈中<br>
-了解背景信息与自己猜测的是否匹配<br>
-尽可能模拟还原用户真实的环境<br>
-尽可能记录用户操作过程：录屏、录音、笔记</p>
-<h3 id="27调研结束和总结">2.7调研结束和总结</h3>
-<p>整理单个用户的调研过程<br>
-是否需要调整调研对象<br>
-汇总本轮调研用户的过程与结论<br>
-用户调研不仅仅是找几个用户聊一聊，需要精心提前准备。<br>
-<strong>明确背景和目的</strong>-&gt;** 选择目标用户**-&gt;<strong>分析用户问题</strong>-&gt;<strong>准备调研内容</strong>-&gt;<strong>现场调研</strong>-&gt;<strong>总结报告</strong></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高级产品经理]]></title>
-        <id>https://www.meiyan.in/post/gao-ji-chan-pin-jing-li/</id>
-        <link href="https://www.meiyan.in/post/gao-ji-chan-pin-jing-li/">
-        </link>
-        <updated>2020-08-17T14:40:20.000Z</updated>
-        <content type="html"><![CDATA[<p>逻辑分析能力<br>
-需求理解阅读能力：还原+创造能力<br>
-项目推进能力<br>
-<img src="https://www.meiyan.in//post-images/1597675854547.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1597675967678.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
