@@ -2,14 +2,351 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.meiyan.in/</id>
     <title>程线多的blog</title>
-    <updated>2020-12-28T01:26:39.606Z</updated>
+    <updated>2021-06-01T13:07:00.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.meiyan.in/"/>
     <link rel="self" href="https://www.meiyan.in/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://www.meiyan.in/images/avatar.png</logo>
     <icon>https://www.meiyan.in/favicon.ico</icon>
-    <rights>All rights reserved 2020, 程线多的blog</rights>
+    <rights>All rights reserved 2021, 程线多的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[424版本更新]]></title>
+        <id>https://www.meiyan.in/post/424-ban-ben-geng-xin/</id>
+        <link href="https://www.meiyan.in/post/424-ban-ben-geng-xin/">
+        </link>
+        <updated>2021-03-09T01:38:48.000Z</updated>
+        <content type="html"><![CDATA[<p>4.24.0版本更新内容：<br>
+1.优化技术人力招聘业务<br>
+2.优化远程工作业务<br>
+3.优化系统自动对接<br>
+4.修复一些已知问题</p>
+<p>4.25.0版本更新内容：<br>
+1.优化远程工作业务<br>
+2.优化开发者签约接单<br>
+3.修复一些已知问题</p>
+<p>4.26.0版本更新内容：<br>
+1.优化远程工作业务<br>
+2.优化项目发布流程<br>
+3.支持群聊功能<br>
+4.修复一些已知问题</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP后端]]></title>
+        <id>https://www.meiyan.in/post/php-hou-duan/</id>
+        <link href="https://www.meiyan.in/post/php-hou-duan/">
+        </link>
+        <updated>2021-03-04T11:28:32.000Z</updated>
+        <content type="html"><![CDATA[<p>web端项目：<br>
+1.需求评审，每个版本整体排期<br>
+2.web端前后端联调，测试上线<br>
+3.远程前端管理，工作日报、进度管理、招聘换人等</p>
+<p>岗位职责：<br>
+1、基于业务需求实现后端功能设计和接口开发；<br>
+2、持续优化服务性能、提高安全性；<br>
+3、积极推动前后分离重构、框架改进、代码规范化；<br>
+4、参与产品业务、需求评审、项目管理，共同推进产品技术的发展。<br>
+岗位要求<br>
+1、具备丰富的Linux下开发经验，熟悉shell/awk/python/php等语言；<br>
+2、具有3年以上PHP开发经验，3年以上互联网项目经验，能够独立完成项目开发及现有项目二次开发；<br>
+3、熟练PHP语言开发，有主流 PHP 框架(如Thinkphp Laravel) 的使用经验，并了解其实现原理及优缺点;<br>
+4、掌握Redis，Elasticsearch等NoSQL技术，熟练MySQL的开发设计和调优；<br>
+5、良好的项目管理能力、沟通能力、抗压能力、推动事情落地能力；<br>
+6、熟练前端技术，了解nuxt、vue；<br>
+加分项：<br>
+1)全栈开发，熟练使用前端技术vue、node.js、ssr等；<br>
+2)有技术前瞻性，不拘泥于单一的技术领域；<br>
+3)积极乐观，抗压能力强、沟通协作能力强、自驱自律<br>
+4)有远程团队开发协作管理经验；</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移动端测试反馈]]></title>
+        <id>https://www.meiyan.in/post/yi-dong-duan-ce-shi-fan-kui/</id>
+        <link href="https://www.meiyan.in/post/yi-dong-duan-ce-shi-fan-kui/">
+        </link>
+        <updated>2021-01-28T07:41:36.000Z</updated>
+        <content type="html"><![CDATA[<p>iOS端</p>
+<ol>
+<li>附件简历详情页，顶部title改成“个人简历”，右上角加上“分享”按钮</li>
+</ol>
+<p>Android端<br>
+1.开发者“拒绝”发送简历，没有发送背景消息</p>
+<ol>
+<li>点完“同意”按钮后，再点“拒绝”toast提示：您已同意发送简历</li>
+<li>对方不管是不是企业方什么，已方只要是企业身份，都允许请求简历</li>
+<li>企业方身份页面，如果收到简历申请请求点击“同意/拒绝”按钮时，提示：请切换到开发者版身份后再操作</li>
+<li>新用户首次无法请求简历--接口没有使用最新的后端接口</li>
+<li>
+<ol start="8">
+<li>企业方身份首次请求简历时，发送请求时候数据没有填充进去，所以没有显示“请求发送简历”消息</li>
+</ol>
+</li>
+</ol>
+<p>客服日报</p>
+<p>工单*2<br>
+举报用户发广告<br>
+雇佣项目，接单后需要取消</p>
+<p>后台意见建议*3<br>
+技术圈微信公众号kol，授权权限问题<br>
+客户举报开发者，发布广告信息<br>
+开发者咨询技术信用访问情况</p>
+<p>用户举报*3<br>
+客户举报开发者，发布广告信息<br>
+开发者举报客户，发布广告信息<br>
+开发者举报客户发布境外棋牌游戏项目</p>
+<p>美洽在线客服<br>
+开发者咨询如何设置工作地点<br>
+开发者误注销开通会员的账号，申请恢复<br>
+开发者申请关闭未启动的云端项目<br>
+客户需要找UI和前端开发者，咨询保密情况<br>
+客户需要了解整包项目<br>
+开发者咨询社区影响力账号重复绑定情况</p>
+<p>客服日报</p>
+<p>遗留工单*1<br>
+用户问题描述不清楚，已留联系方式</p>
+<p>后台意见建议*1<br>
+iOS用户反馈闪退问题</p>
+<p>用户举报*4<br>
+开发者举报客户引导线下交易，项目类型为兼职刷单类</p>
+<p>美洽在线客服*7<br>
+客户咨询1980服务<br>
+客户咨询雇佣项目退款进度<br>
+客户咨询雇佣项目协商退款进度<br>
+客户申请雇佣项目仲裁<br>
+开发者咨询如何签约接单<br>
+开发者咨询云端项目结薪<br>
+开发者咨询修改个人信息</p>
+<p><strong>2月25日客服工作日报</strong></p>
+<p>后台意见建议*2<br>
+iOS用户无法保存作品<br>
+web用户无法添加作品图片</p>
+<p>美洽在线客服*15<br>
+开发者申请修改评价<br>
+开发者申请领薪宝开票<br>
+客户需要一个fullter开发一个app20个页面<br>
+实名认证提示身份证号过期<br>
+开发者咨询是否有项目可以接<br>
+客户咨询微信小程序的报价<br>
+开发者咨询如何在平台兼职接单<br>
+开发者咨询会员权益<br>
+开发者咨询为什么接不到项目<br>
+开发者咨询咱们平台项目多不<br>
+客户需要找成都地区的开发者<br>
+开发者咨询学生是否可以签约接单<br>
+客户咨询如果修改已经发布的招聘岗位信息<br>
+开发者咨询系统消息的含义<br>
+开发者咨询如何签约</p>
+<p><strong>5月26日客服工作日报</strong></p>
+<p>后台意见反馈<br>
+开发者反馈阿新不回复他的消息<br>
+境外手机验证码问题</p>
+<p>后台举报<br>
+开发者举报客户发布兼职招聘，引导线下交易</p>
+<p>美洽在线客服<br>
+客户咨询项目审核进度<br>
+开发者咨询学历认证为什么没通过<br>
+客户想私信程序员，对方没有回复<br>
+开发者咨询如何取消雇佣项目预约<br>
+客户咨询退款如何提现<br>
+客户有项目需求，希望客户经理直接电话联系<br>
+进制数据在线测试报错咨询<br>
+开发者咨询开发者会员派单问题<br>
+客户咨询项目发票问题<br>
+客户咨询雇佣项目收费方式<br>
+开发者申请注销账号<br>
+实名认证提示身份证号已经存在<br>
+开发者投诉阿新服务态度不好<br>
+客户在工作台找不到自己发布的项目<br>
+开发者咨询如何修改工作经历<br>
+客户咨询项目审核失败的原因</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[客服日报]]></title>
+        <id>https://www.meiyan.in/post/ri-bao/</id>
+        <link href="https://www.meiyan.in/post/ri-bao/">
+        </link>
+        <updated>2021-01-25T01:13:08.000Z</updated>
+        <content type="html"><![CDATA[<p>3月18日，客服日报</p>
+<p><strong>遗留工单</strong><br>
+1.开发者咨询签约认证，有需求希望直接走平台流程</p>
+<p><strong>在线客服</strong><br>
+1.客户希望尽快对接<br>
+2.开发者希望删除差评<br>
+3.开发者咨询学历认证进度<br>
+4.开发者咨询客户评价完，为什么还没结算<br>
+5.开发者咨询是否可以同时兼职多个岗位<br>
+6.客户咨询如何雇佣开发者<br>
+7.用户举报阿里云推销广告<br>
+8.开发者申请取消待面试的单子<br>
+9.用户申请注销账号<br>
+10.开发者希望删除差评<br>
+11.开发者咨询客户如何预约自己<br>
+12.用户咨询实名认证入口在哪里<br>
+13.客户咨询如果招聘全职开发者<br>
+14.开发者咨询学历认证审核不通过原因<br>
+15.客户需要找PHP程序员</p>
+<p><strong>后台意见反馈</strong><br>
+开发者反馈请求发送简历bug问题<br>
+<strong>用户举报</strong><br>
+1.开发者举报客户发布的项目需求违规<br>
+2.开发者举报客户发布的项目不完整<br>
+3.开发者举报阿里云推销广告</p>
+<p>4月19日，客服日报</p>
+<p><strong>在线客服</strong><br>
+1.客户仔细查看联系方式发票情况<br>
+2.开发者反馈iOS端BUG<br>
+3.开发者希望关闭面试中项目<br>
+4.开发者咨询工作经历认证审核进度<br>
+5.开发者咨询实名认证审核不通过原因<br>
+6.开发者咨询学历认证审核不通过原因<br>
+7.开发者会员咨询优先展示问题<br>
+8.开发者申请关闭项目<br>
+9.Java开发者咨询如何入驻平台<br>
+10.开发者咨询如何签约接单<br>
+11.开发者咨询客户如何预约自己<br>
+12.用户咨询实名认证入口在哪里<br>
+13.客户咨询如何招聘全职开发者<br>
+14.开发者咨询学历认证审核不通过原因<br>
+15.客户需要找PHP程序员</p>
+<p><strong>后台意见反馈</strong><br>
+开发者反馈保存作品信息bug<br>
+<strong>用户举报</strong><br>
+1.开发者举报客户发布的项目需求违规<br>
+2.开发者举报客户发布的项目不完整<br>
+3.开发者举报阿里云推销广告</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信公开课2021]]></title>
+        <id>https://www.meiyan.in/post/wei-xin-gong-kai-ke-2021/</id>
+        <link href="https://www.meiyan.in/post/wei-xin-gong-kai-ke-2021/">
+        </link>
+        <updated>2021-01-20T03:37:07.000Z</updated>
+        <content type="html"><![CDATA[<p>一、开篇<br>
+视频号线上直播<br>
+产品研讨<br>
+因为疫情，线上年会<br>
+开发微信出发点：十年以前自己不用QQ，自己做一个聊天软件，给自己用<br>
+产品数据：<br>
+每天1.9亿人打开微信<br>
+每天3.3亿视频通话<br>
+每天7.8亿人发朋友圈<br>
+1.2亿发撇能够引起<br>
+上传1.7亿张照片<br>
+发布1亿个视频<br>
+3.6亿阅读公众号<br>
+4亿使用用小程序<br>
+微信发展成了一个日常生活用品<br>
+感谢平台里的每一位创作者</p>
+<p>主题1：关于视频号的故事<br>
+17年，公众号只适合长文章<br>
+“非长文章”文字短内容、视频、图片，集合，太复杂<br>
+最近5年：微信全部视频翻了33倍、朋友圈视频10倍<br>
+一二十人团队19年开始研发视频号，视频化的微博<br>
+微信开发新项目风格：一个小团队悄悄来做，一定要做成<br>
+微信视频号定义：公开领域，人人都可以创作的短视频内容平台<br>
+视频号遇到的第一个问题：面向公开领域的ID问题<br>
+微信是基于私密领域的ID<br>
+公众号ID，不代表每一个普通人，都能发声<br>
+视频号ID可以在公众领域的直播<br>
+针对机构的ID<br>
+PC时代，最大的是机构ID<br>
+移动互联网时代，帮助机构建立在微信体系里面的官网，公众号-&gt;小程序-&gt;视频号<br>
+无数次选择迭代带来的结构<br>
+视频号遇到的第2个问题：吸引不到优质的内容创作者<br>
+通过内容推荐算法来解决，3个团队来做，从其它大团队抽调组合<br>
+搜一搜后面有几百个团队研发<br>
+语音识别由微信内部团队自主研发的<br>
+内容不好，没有好的内容，无法推荐好的内容<br>
+6月份：不太全面的内容基础下，机器推荐出来的内容不太好，基于朋友用户点赞、推荐出来的内容，由于机器推荐的内容<br>
+一定量级的用户循环，才能走过生死线，活下去，才能开发更多的附加、优化功能<br>
+机器推荐，只有在内容数量比较丰富的时候，才能起作用<br>
+视频号推测比例（1：2：10）：关注、朋友赞、机器推荐<br>
+关注：学习内容&amp;娱乐内容<br>
+朋友点赞：学习内容<br>
+机器推荐：娱乐内容<br>
+实际验证数据：机器推荐只有朋友点赞的1/2，原因是内容数量级不够<br>
+不关注用户时长，不以消耗用户更多时长为KPI目标</p>
+<p>研发创作过程中遇到的问题：什么才是“视频”？<br>
+视频文件不应该单独存在<br>
+未来视频的格式，应该是结构化的数据，创作者、评论、标记，应该是存在云端<br>
+不鼓励用户在朋友圈上传视频文件<br>
+视频号的内容分享到朋友圈时，是应该是链接的形式，还是点击就可以播放<br>
+云端化的视频，才应该是视频格式，不应该是本地上传的裸视频文件<br>
+朋友圈的视频，通过视频号的形式发布<br>
+公众号对于文章的价值-视频号对于视频的价值<br>
+视频号的意义：对视频的载体，只做内容的承载传递；不自己生成</p>
+<p>话题：视频号里面的长视频<br>
+最早定义1分钟，类似短微博<br>
+用户实际需求大于1分钟<br>
+“长视频”单独定义一个类型？<br>
+长视频、短视频，都属于视频，应该是同一个东西，取消单独的长视频分类，长视频的头一分钟，做成封面<br>
+微信视频图书馆、知识库，通过搜索、推荐挖掘，长视频是对未来数据的积累</p>
+<p>话题：如何让普通人，去发表视频内容？<br>
+小举措：视频号的内容，关联到微信名片里面（数据有增长，成功了）<br>
+保守开发：为什么不在名片底下，做一个”照片精选“？，不做的原因，数据是死的，不是活的，不经常维护，放视频号，是因为可以经常更新视频<br>
+目标：让普通人用，而不仅仅是大V，网红的工具<br>
+全屏化概念：<br>
+信息列表的展现形式，一屏里面放多少内容？<br>
+规律：一屏里面内容条数，和用户感兴趣条数命中率，成反比，全部感兴趣，就可以全屏<br>
+上半年内容不足，只能半屏显示；下半年内容丰富了，可以全屏化<br>
+再小的个人也能有属于自己的品牌，通过公众号--&gt;视频号</p>
+<p>话题：直播领域<br>
+互联网变迁史，内容形态演变方向：html-博客-微博-图片-视频-直播？<br>
+普通人愿意消费、碎片化<br>
+内容越来越碎片化<br>
+直播更容易被大众化消费<br>
+不仅仅是直播带货，个人表达，直播很轻松，短视频需要更多成本，短视频创作门槛：需要做更精彩的内容<br>
+直播：更轻松的个人表达方式<br>
+每个人都是别人的眼睛，看到别人看到的东西<br>
+案例流星雨的直播：超过100万围观<br>
+机器推荐直播<br>
+下个版本：直播<br>
+附件的直播和人---&gt;直播：附近的直播<br>
+大招：直播拜年，2021年直播拜年</p>
+<p>做产品的想法<br>
+拍一拍<br>
+屏幕炸碎<br>
+听歌的时候，看到谁在和我一起听<br>
+失眠的时候，看到有多少人失眠<br>
+微信产品画布，所有人一起画<br>
+微信接下来可能出的很好玩的小功能：<br>
+拍一拍：模拟人在现实生活中的动作<br>
+屏幕炸开，表情<br>
+关于个人状态：随便说一句话，随便写几个字，陌生人社交？<br>
+社交的本质是找到同类<br>
+关于听歌：微信里面听歌的体验不太好，听歌的时候应该看到什么？听歌的时候有想象力<br>
+把听歌的画面，联系在一起<br>
+关于浮窗：优化浮窗<br>
+关于直播：快速返回到，最近看过的文章、视频、直播<br>
+关于输入法：<br>
+保护隐私<br>
+其徐如林，其疾如风<br>
+互联网产品是拼创造力，而不是人数</p>
+<p>总结：<br>
+微信十年<br>
+从产品的角度，总结做了哪些东西<br>
+关键字：连接、简单<br>
+连接人、物、事情<br>
+重心不是在做内容，而是在做连接<br>
+追求简单：<br>
+微信和十年前一样<br>
+简单背后的美感<br>
+小而美的产品</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MRD文档结构]]></title>
+        <id>https://www.meiyan.in/post/mrd-wen-dang-jie-gou/</id>
+        <link href="https://www.meiyan.in/post/mrd-wen-dang-jie-gou/">
+        </link>
+        <updated>2021-01-06T06:00:12.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://www.meiyan.in//post-images/1609912856453.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[P2【7上线前后运营】]]></title>
         <id>https://www.meiyan.in/post/p27-shang-xian-qian-hou-yun-ying/</id>
@@ -66,301 +403,45 @@
 主线流程核心流向一定要清晰<br>
 核心流向意味着功能目标，核心流向不清晰，用户一定不满意</p>
 <h2 id="42-需求池与版本优先级管理">4.2 需求池与版本优先级管理</h2>
+<p><strong>所有的产品经理都要有一个需求池</strong><br>
+需求池的意义：所有的产品经理都应该有一个需求池，需求池是产品经理安身立命的根本，是掌握现状和未来可能改变的方向，需求池是主动收集，主动攻击的方式方法，相当于弹药库，对需求池管理，优先级排序的重要的点。<br>
+在产品生命周期管理中，靠谱的、不靠谱的、紧急的、不紧急的，所有的需求都应该放到池子里，每一次安排产品版本计划的时候，都要重新审视一遍需求。然后再根据池子里的所有需求进行“轻重缓急”和“优先级”的权重比较。需求池是一种项目管理和自我管理的一种工具<br>
+<strong>了解需求池之前，必须清晰的知道</strong><br>
+1.所负责的产品，版本演变的过程是什么<br>
+2.需求改进和BUG的区别是什么<br>
+<img src="https://www.meiyan.in//post-images/1622547782898.png" alt="" loading="lazy"><br>
+<strong>常见的需求池样式</strong><br>
+个人管理<br>
+<img src="https://www.meiyan.in//post-images/1622548678754.png" alt="" loading="lazy"><br>
+团队管理<br>
+<img src="https://www.meiyan.in//post-images/1622548700802.png" alt="" loading="lazy"><br>
+需求池和版本的关系：70%来自产品方向，30%来自需求池相关需求点<br>
+<img src="https://www.meiyan.in//post-images/1622548978542.png" alt="" loading="lazy"><br>
+为什么要有需求池：方便团队协作管理需求<br>
+<img src="https://www.meiyan.in//post-images/1622549121835.png" alt="" loading="lazy"><br>
+常见的需求池工具：<br>
+<img src="https://www.meiyan.in//post-images/1622549214902.png" alt="" loading="lazy"><br>
+<strong>需求是怎么被收集到需求池的？</strong><br>
+需求进入需求池的过程：需求收集--&gt;需求整理--&gt;需求反馈<br>
+<strong>需求收集</strong><br>
+<img src="https://www.meiyan.in//post-images/1622549597128.png" alt="" loading="lazy"><br>
+<strong>需求整理</strong><br>
+<img src="https://www.meiyan.in//post-images/1622550193423.png" alt="" loading="lazy"><br>
+需求重要性分析四象限<br>
+<img src="https://www.meiyan.in//post-images/1622550393960.png" alt="" loading="lazy"><br>
+需求整理比需求收集更需要花精力<br>
+<img src="https://www.meiyan.in//post-images/1622550676015.png" alt="" loading="lazy"><br>
+<strong>需求反馈</strong><br>
+<img src="https://www.meiyan.in//post-images/1622551597923.png" alt="" loading="lazy"><br>
+需求进入需求池的过程<br>
+<img src="https://www.meiyan.in//post-images/1622551817359.png" alt="" loading="lazy"></p>
 <h2 id="43-商业产品">4.3 商业产品</h2>
+<p>商业模式不是总结出来的，而是随着商品的发展，自然而然的衍生，自然的长出来的。<br>
+商业产品是商业模式的具体表现。不同产品的不同情况，可能的商业模式也是完全不同的。</p>
+<p><strong>了解商业产品</strong><br>
+产品先对用户有价值，然后再是对企业有价值</p>
 <h2 id="44-制定功能的考核指标">4.4 制定功能的考核指标</h2>
 <h2 id="45-总结">4.5 总结</h2>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P2【3.产品调研进阶】]]></title>
-        <id>https://www.meiyan.in/post/p23chan-pin-diao-yan-jin-jie/</id>
-        <link href="https://www.meiyan.in/post/p23chan-pin-diao-yan-jin-jie/">
-        </link>
-        <updated>2020-11-29T08:06:15.000Z</updated>
-        <content type="html"><![CDATA[<p>##3.1抄也是一门学问<br>
-<strong>产品分析和竞品调研</strong><br>
-<strong>3.1.1产品分析与竞品调研的概念</strong><br>
-<strong>为什么要做产品分析与调研？</strong><br>
-产品分析：了解产品概况，具体功能模块的产品功能设计与逻辑<br>
-竞品调研：竞品检测，分析竞品情况<br>
-日常交流学习，提升产品感觉<br>
-<strong>产品调研常见误区</strong><br>
-产品调研报告  不等于  行业分析报告<br>
-产品调研报告  不等于  产品体验报告<br>
-产品调研  不等于 写产品报告 （重点是调研过程）<br>
-不要用“看起来很高深的数据”的分析过程来证明自己的结论是靠谱的<br>
-不用期望通过竞品调研来证明自己的存在感（多看竞品优秀的地方）</p>
-<p>不做产品调研的PM是不合格的，优秀的PM一定能做好产品调研</p>
-<p><strong>3.1.2产品分析与调研的方法</strong><br>
-<img src="https://www.meiyan.in//post-images/1606638811926.png" alt="" loading="lazy"><br>
-<strong>2.1明确调研的背景与目的</strong><br>
-<img src="https://www.meiyan.in//post-images/1606639880256.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1606639553912.png" alt="" loading="lazy"><br>
-<strong>2.2选定目标产品</strong><br>
-<img src="https://www.meiyan.in//post-images/1606639803405.png" alt="" loading="lazy"><br>
-<strong>2.3深度体验产品</strong><br>
-<img src="https://www.meiyan.in//post-images/1606640036322.png" alt="" loading="lazy"><br>
-<strong>2.4还原产品</strong><br>
-<img src="https://www.meiyan.in//post-images/1606640118198.png" alt="" loading="lazy"><br>
-<strong>2.5分析产品</strong><br>
-<img src="https://www.meiyan.in//post-images/1606640252900.png" alt="" loading="lazy"><br>
-<strong>2.6产品迭代与运营分析</strong><br>
-<img src="https://www.meiyan.in//post-images/1606640504378.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1606640602636.png" alt="" loading="lazy"><br>
-<strong>2.7横向比较同类型的产品</strong><br>
-<img src="https://www.meiyan.in//post-images/1606640750169.png" alt="" loading="lazy"><br>
-<strong>2.8撰写调研分析报告</strong><br>
-<img src="https://www.meiyan.in//post-images/1606640927418.png" alt="" loading="lazy"><br>
-<strong>2.9推广报告</strong><br>
-内部分享：在公司内部建立分享会<br>
-外部发布：在第三方平台表达出来</p>
-<p>##3.2产品初期针对行业的调研<br>
-<strong>关于PMF的概念</strong><br>
-产品脱离市场：足记<br>
-产品被市场套牢：诺基亚、柯达<br>
-<strong>3.2.1产业地图-产业链梳理与市场盘点</strong><br>
-产业地图包括三个方面：1.市场趋势和规模 2.产业链梳理：业务抽象化表达 3.主要玩家和商业模式<br>
-<img src="https://www.meiyan.in//post-images/1608809043051.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608809313693.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608809428249.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608809491511.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608809743134.png" alt="" loading="lazy"><br>
-<strong>3.2.2典型产品的结构化分析</strong><br>
-<img src="https://www.meiyan.in//post-images/1608809948458.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608810075923.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608810188379.png" alt="" loading="lazy"><br>
-核心业务结构：生产者-消费者之间的业务关系<br>
-<img src="https://www.meiyan.in//post-images/1608810259942.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608810372714.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608810961632.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608811015840.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608811044097.png" alt="" loading="lazy"><br>
-用户评价<br>
-<img src="https://www.meiyan.in//post-images/1608811107007.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608811114386.png" alt="" loading="lazy"><br>
-<strong>3.2.3典型用户画像与用户故事</strong><br>
-<img src="https://www.meiyan.in//post-images/1608811263070.png" alt="" loading="lazy"><br>
-用户画像是指通过数据描述的方式，勾画出产品中用户的统计特征、行为特征和心理特征的方法<br>
-价值：可以客观的描述用户的统计特征、行为特征和心理特征，能使产品和运营更加透明，需求描述更加清楚<br>
-风险：只是参考，无法确定核心需求，不能过度依赖<br>
-<img src="https://www.meiyan.in//post-images/1608811665949.png" alt="" loading="lazy"><br>
-<strong>3.2.4结论产出：机会&amp;风险</strong><br>
-<img src="https://www.meiyan.in//post-images/1608811766897.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608811840005.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608812035820.png" alt="" loading="lazy"><br>
-<strong>3.2.5总结</strong><br>
-数据来源<br>
-<img src="https://www.meiyan.in//post-images/1608812244027.png" alt="" loading="lazy"><br>
-规划的核心是消灭未知的恐惧<br>
-产品分析的核心是避免别人踩过的坑<br>
-产品定位：我的机会、我的敌人<br>
-最后产品：市场机会和我们已有资源，交集出来的实施方案<br>
-从整体到细节的把控：产业链-典型产品-竞品玩家<br>
-做PMF（适应市场的产品）：产业地图-典型产品分析-用户画像与故事-结论实施方案</p>
-<p>##3.3总结<br>
-产品分析：了解产品情况，具体功能模块的产品设计逻辑<br>
-竞品调研：竞品监测，分析竞品的情况(借鉴)<br>
-日常交流学习，提升产品感觉<br>
-产品调研报告 ≠ 行业分析报告<br>
-产品调研报告 ≠ 产品体验报告<br>
-产品调研 ≠ 写产品报告<br>
-不要用“看起来很高深”的分析过程来证明自己的结论是靠谱的<br>
-不要期望通过竞品的调研来证明自己的存在感<br>
-产品调研流程：1.调研背景  2.明确背景 3.选择产品 4.体验产品 5.撰写报告 6.得出结论 7.分析产品 8.还原产品 9.推广报告</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[产品经理常用文档汇总]]></title>
-        <id>https://www.meiyan.in/post/chan-pin-jing-li-chang-yong-wen-dang-hui-zong/</id>
-        <link href="https://www.meiyan.in/post/chan-pin-jing-li-chang-yong-wen-dang-hui-zong/">
-        </link>
-        <updated>2020-11-10T11:40:25.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="1产品体验报告">1.产品体验报告</h2>
-<p>https://www.sanjieke.cn/youzhao/article/24772104</p>
-<h2 id="2竞品分析报告">2.竞品分析报告</h2>
-<h2 id="3prd产品需求文档">3.PRD产品需求文档</h2>
-<p>https://www.yuque.com/docs/share/2e59d2c2-14e8-4850-88dc-a6955aee1b5e?# 《4.22需求文档》</p>
-<h2 id="4产品需求池">4.产品需求池</h2>
-<p>https://shimo.im/sheets/9It2K52hQ9ogX96p/ZyrsU/ 《需求&amp;bug》</p>
-<h2 id="5项目排期表">5.项目排期表</h2>
-<p>https://shimo.im/sheets/yjkHwHyGrTGJYkWy/8oKzp/ 《版本排期》</p>
-<h2 id="6测试用例">6.测试用例</h2>
-<h2 id="7产品手册">7.产品手册</h2>
-<p>https://jishuin.proginn.com/p/763bfbd22dc2《技术圈接单教程》</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P2【2需求挖掘进阶】]]></title>
-        <id>https://www.meiyan.in/post/p2yong-hu-fen-xi-21-yong-hu-gu-shi/</id>
-        <link href="https://www.meiyan.in/post/p2yong-hu-fen-xi-21-yong-hu-gu-shi/">
-        </link>
-        <updated>2020-09-22T16:28:38.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="21用户故事">2.1用户故事</h2>
-<p><strong>用户故事为什么重要？</strong><br>
-讲需求的时候，研发总是无动于衷，怎么打动油烟不进的研发？<br>
-用户访谈的时候，用户反馈的问题经常干巴巴，没有实际作用，如何引导用户讲故事？<br>
-产品推广时，总是无法打动别人，是不是讲故事更好？</p>
-<p><strong>讲故事是产品经理的第一沟通能力</strong><br>
-讲故事是第一沟通能力<br>
-“讲故事”比“说教”更有说服力<br>
-<strong>什么情况下需要讲故事</strong><br>
-讲需求是时候，和研发讲解需求的时候<br>
-做用户访谈的时候，举例子，引导用户讲故事<br>
-对外宣讲推广的时候<br>
-<strong>向谁学习讲故事</strong><br>
-媒体记者、TED视频http://www.ted.com、传销组织<br>
-《华尔街日报》是如何讲故事的<br>
-《无价》<br>
-<strong>好的故事的特点</strong><br>
-平实：真实反映，讲故事的人不能激动<br>
-有用：故事中的信息，对听的人是有用有价值的<br>
-简练：30S之内抓住用户，打动用户<br>
-<strong>产品经理如何讲故事</strong><br>
-【问题】：描述用户在什么情况下发生了什么事情，是如果处理的<br>
-用户完成这件事情的流程是什么样的<br>
-同类用户、不同类用户之间的关系是怎样的<br>
-<img src="https://www.meiyan.in//post-images/1606632786039.png" alt="" loading="lazy"><br>
-用户-场景-遇到的问题-现在的解决方案<br>
-【提炼】：一句话总结问题<br>
-【延伸】：找到背后的原因，并提炼出有用的价值<br>
-发生问题原因是什么，是用户的问题，还是产品功能的问题<br>
-<img src="https://www.meiyan.in//post-images/1606633306254.png" alt="" loading="lazy"><br>
-产品功能上线，做完之后，问题解决前后对比<br>
-不同场合讲不同故事<br>
-<img src="https://www.meiyan.in//post-images/1606633753692.png" alt="" loading="lazy"></p>
-<h2 id="22hmw分析法">2.2HMW分析法</h2>
-<p>什么是How Might we分析方法<br>
-我们可以怎么样、有什么办法<br>
-<strong>HWM是什么？</strong><br>
-找方向：解决这个问题的方向，打开思考的困局<br>
-扩展思路：把一个小问题大幅扩展，把问题想透彻<br>
-头脑风暴：暂时不需要考虑具体的方案，让头脑风暴更高效<br>
-创新点：让每一个吐槽的都有可能变成创新点<br>
-<strong>HWM在什么时候用？</strong><br>
-头脑风暴前：解决头脑风暴效率问题<br>
-分析用户反馈前：在碰到用户反馈，立即用HMW方法分析<br>
-和领导PK时：用HMW和领导沟通<br>
-<img src="https://www.meiyan.in//post-images/1606635055014.png" alt="" loading="lazy"><br>
-<strong>HMW最适合的场景</strong><br>
-面对明确的用户和问题：一类明确的用户，在面对相对明确的问题时最适用<br>
-锻炼自我思维：产品思维分解问题<br>
-<strong>HWM的分解方法</strong><br>
-HMW的操作逻辑<br>
-<img src="https://www.meiyan.in//post-images/1606635437643.png" alt="" loading="lazy"><br>
-1.明确的用户和对应的问题<br>
-<img src="https://www.meiyan.in//post-images/1606635730186.png" alt="" loading="lazy"><br>
-2.拆解问题的方向<br>
-<img src="https://www.meiyan.in//post-images/1606635985989.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1606636286477.png" alt="" loading="lazy"><br>
-3.针对HMW做解决方案<br>
-先向方向，再做方案<br>
-4.一些建议<br>
-不好的、不明确的HMW<br>
-太空，太宽泛<br>
-太窄，太具体<br>
-完全超出自身能力范围</p>
-<h2 id="23总结汇总">2.3总结汇总</h2>
-<p>讲故事<br>
-<img src="https://www.meiyan.in//post-images/1606636995580.png" alt="" loading="lazy"><br>
-HWM方案使用时机<br>
-<img src="https://www.meiyan.in//post-images/1606637012836.png" alt="" loading="lazy"><br>
-案例<br>
-<img src="https://www.meiyan.in//post-images/1606637078046.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P2【用户分析】1.3用户调研现场]]></title>
-        <id>https://www.meiyan.in/post/p2yong-hu-fen-xi-13-yong-hu-diao-yan-xian-chang/</id>
-        <link href="https://www.meiyan.in/post/p2yong-hu-fen-xi-13-yong-hu-diao-yan-xian-chang/">
-        </link>
-        <updated>2020-09-20T13:47:03.000Z</updated>
-        <content type="html"><![CDATA[<p>调研现场：基于用户行为的调研方法</p>
-<h2 id="1用户调研的过程">1.用户调研的过程</h2>
-<p>明确背景和目的--选择目标用户--分析用户和问题--准备调研内容--现场调研--调研报告<br>
-全新用户、一直在用的老用户、流失的老用户</p>
-<h2 id="2用户调研现场怎么做">2.用户调研现场怎么做</h2>
-<p>望：观察用户是如何操作的<br>
-<img src="https://www.meiyan.in//post-images/1600788683810.png" alt="" loading="lazy"><br>
-闻：猜测用户可能在哪些环节出现了哪些问题<br>
-<img src="https://www.meiyan.in//post-images/1600789558264.png" alt="" loading="lazy"><br>
-问：让用户说说当时的想法<br>
-<img src="https://www.meiyan.in//post-images/1600790070134.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1600790438871.png" alt="" loading="lazy"><br>
-切：发现机会，验证机会，观察反馈<br>
-<img src="https://www.meiyan.in//post-images/1600790919922.png" alt="" loading="lazy"><br>
-<strong>总结：问聚集且开发的问题，针对现象来问，而不是泛泛的来问</strong></p>
-<h2 id="3如何让用户更愿意说话">3.如何让用户更愿意说话</h2>
-<pre><code> 方式一：讲故事，让用户自己讲自己的故事，讲他的经历，当作采访对象
- 方式二：鼓励，少打断，多鼓励用户的表达，用期待的眼神
- 方式三：刺激，说返回，聊对立的用户，让用户表达看法</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P2【用户分析】1.2用户画像：了解关键用户]]></title>
-        <id>https://www.meiyan.in/post/p2-yong-hu-fen-xi-12-yong-hu-hua-xiang-liao-jie-guan-jian-yong-hu/</id>
-        <link href="https://www.meiyan.in/post/p2-yong-hu-fen-xi-12-yong-hu-hua-xiang-liao-jie-guan-jian-yong-hu/">
-        </link>
-        <updated>2020-09-18T12:48:17.000Z</updated>
-        <content type="html"><![CDATA[<p>用户画像</p>
-<h2 id="一-了解用户特征分析的方法">一、了解用户特征分析的方法</h2>
-<h3 id="1用户特征的基本概念">1.用户特征的基本概念</h3>
-<p>####1.1什么是用户特征分析？<br>
-通过各种方法，来更完整的了解目标群体的情况<br>
-描述典型的目标用户及其群体行为<br>
-用户分析=信息的分析<br>
-####1.2用户特征分析的目的是什么？<br>
-明确的知道用户真实的诉求点<br>
-为功能设计提供核心依据<br>
-数据挖掘和用户推荐的底层支持<br>
-<strong>总结：关注用户心理的变化，必定通过行为来表现</strong></p>
-<h3 id="2用户特征分析的操作逻辑">2.用户特征分析的操作逻辑</h3>
-<h4 id="21用户特征分析的逻辑">2.1用户特征分析的逻辑</h4>
-<figure data-type="image" tabindex="1"><img src="https://www.meiyan.in//post-images/1600607681643.png" alt="" loading="lazy"></figure>
-<h4 id="22用户特征分析的过程">2.2用户特征分析的过程</h4>
-<p><img src="https://www.meiyan.in//post-images/1600608035101.png" alt="" loading="lazy"><br>
-<strong>总结：把用户特征分层分类，是做好用户画像的关键</strong></p>
-<h3 id="3用户特征分析实战">3.用户特征分析实战</h3>
-<h4 id="31用户特征分析过程">3.1用户特征分析过程</h4>
-<h4 id="32个体分析">3.2个体分析</h4>
-<h4 id="33关键行为特征-">3.3关键行为特征--</h4>
-<p>猜测关键行为特征有哪些<br>
-关键行为看交叉验证<br>
-明确特征的计算方式（算法）<br>
-命中的行为路径是什么</p>
-<h4 id="34召回验证">3.4召回验证</h4>
-<p>把关键行为交叉后调出数据，然后验证数据<br>
-召回率：有多少命中策略的数据被调出来了<br>
-召回准确率：召回的数据中，准确率是多少<br>
-优化：修正特征数据，调整粒度阈值</p>
-<h4 id="35找到最有效的解决方案">3.5找到最有效的解决方案</h4>
-<p>用户特征分析越细，解决方案越准确有效<br>
-解决方案的排序：用户量和频次，进行选择<br>
-透过数据看用户行为<br>
-<img src="https://www.meiyan.in//post-images/1600609488146.png" alt="" loading="lazy"></p>
-<h2 id="二-准确定位用户特点">二、准确定位用户特点</h2>
-<h2 id="三-找到解决用户需求的主要方法">三、找到解决用户需求的主要方法</h2>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[书]]></title>
-        <id>https://www.meiyan.in/post/shu/</id>
-        <link href="https://www.meiyan.in/post/shu/">
-        </link>
-        <updated>2020-09-12T03:00:45.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="了解历史类">了解历史类</h2>
-<p>中国历史朝代顺序为：<br>
-夏朝、商朝、西周、东周、秦朝、西楚、西汉、新朝、玄汉、东汉、三国、曹魏、蜀汉、孙吴、西晋、东晋、十六国、南朝、刘宋、南齐、南梁、南陈、北朝、北魏、东魏、北齐、西魏、北周、隋朝等。<br>
-热门主流朝代：秦、汉、唐、明<br>
-《史记》《资治通鉴》《明朝那些事》</p>
-<h2 id="小说名著类">小说名著类</h2>
-<p>《论语》《中庸》《诗经》《楚辞》<br>
-国内《红楼梦》《西游记》《水浒传》《三国演义》《围城》《白鹿原》《平凡的世界》《红岩》<br>
-国内：鲁迅、路遥、贾平凹、余秋雨、钱钟书、梁实秋<br>
-国外：托尔斯泰、雨果、海明威</p>
-<h2 id="科学科技类">科学科技类</h2>
-<p>数学、生物学、化学、物理学、计算机</p>
-<h2 id="人文社会类">人文社会类</h2>
-<p>《资本论》《人类简述》《未来简史》《今日简史》</p>
 ]]></content>
     </entry>
 </feed>
