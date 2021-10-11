@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.meiyan.in/</id>
     <title>程线多的blog</title>
-    <updated>2021-10-11T11:31:17.285Z</updated>
+    <updated>2021-10-11T13:24:00.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.meiyan.in/"/>
     <link rel="self" href="https://www.meiyan.in/atom.xml"/>
@@ -214,7 +214,31 @@ PC时代，最大的是机构ID<br>
         <link href="https://www.meiyan.in/post/p26-xiang-mu-guan-li-jin-jie/">
         </link>
         <updated>2020-12-24T09:27:20.000Z</updated>
-        <content type="html"><![CDATA[<p>项目管理进阶</p>
+        <content type="html"><![CDATA[<h2 id="如何做项目总结">如何做项目总结</h2>
+<p><img src="https://www.meiyan.in//post-images/1633956277363.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1633956324793.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1633956390217.png" alt="" loading="lazy"></p>
+<h2 id="对绩效的理解">对绩效的理解</h2>
+<p><img src="https://www.meiyan.in//post-images/1633956489983.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1633956498786.png" alt="" loading="lazy"></p>
+<h2 id="如何让项目提速">如何让项目提速</h2>
+<p><strong>产品经理项目管理，最重要关注什么？</strong><br>
+<img src="https://www.meiyan.in//post-images/1633956768766.png" alt="" loading="lazy"><br>
+<strong>产品启动会议：统一思想、明确目标</strong><br>
+<img src="https://www.meiyan.in//post-images/1633956897559.png" alt="" loading="lazy"><br>
+<strong>拆分项目并公开</strong><br>
+<img src="https://www.meiyan.in//post-images/1633957252803.png" alt="" loading="lazy"><br>
+<strong>进度透明：进度同步会议站立会</strong><br>
+<img src="https://www.meiyan.in//post-images/1633957393267.png" alt="" loading="lazy"><br>
+<strong>总结项目</strong><br>
+<img src="https://www.meiyan.in//post-images/1633957485875.png" alt="" loading="lazy"></p>
+<h2 id="产品经理如何避免被投诉">产品经理如何避免被投诉</h2>
+<p><strong>提升自己的专业度</strong><br>
+<img src="https://www.meiyan.in//post-images/1633957793359.png" alt="" loading="lazy"><br>
+<strong>提升自己的职业素养</strong><br>
+<img src="https://www.meiyan.in//post-images/1633957990583.png" alt="" loading="lazy"></p>
+<p>##产品经理如何与测试配合##<br>
+<img src="https://www.meiyan.in//post-images/1633958410456.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
@@ -223,7 +247,8 @@ PC时代，最大的是机构ID<br>
         <link href="https://www.meiyan.in/post/p25-yuan-xing-she-ji-jin-jie/">
         </link>
         <updated>2020-12-24T09:26:34.000Z</updated>
-        <content type="html"><![CDATA[<p>原型设计进阶</p>
+        <content type="html"><![CDATA[<p>原型设计进阶步骤<br>
+<img src="https://www.meiyan.in//post-images/1633955205570.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
@@ -329,7 +354,7 @@ B2C--&gt;滴滴专车、滴滴快车<br>
 <img src="https://www.meiyan.in//post-images/1624538207404.png" alt="" loading="lazy"><br>
 订单转化率-页面流水率--&gt;市场投放<br>
 <strong>产品经理应该关注需求的哪些指标？</strong><br>
-能反映效果的指标：各种转化率（订单转化率、注册转化率。。。）、活跃度（访问深度、发布比例、回贴比例。。。）、留存（次日留存、周留存、月留存）<br>
+能反映效果的指标：<strong>各种转化率（订单转化率、注册转化率。。。）</strong>、<strong>活跃度（访问深度、发布比例、回贴比例。。。）</strong>、<strong>留存（次日留存、周留存、月留存）</strong><br>
 能反映产品问题的指标：访问速度、潜在bug的发生比例<br>
 <img src="https://www.meiyan.in//post-images/1624538751215.png" alt="" loading="lazy"><br>
 <strong>如何设置需求考核指标</strong><br>
@@ -337,8 +362,24 @@ B2C--&gt;滴滴专车、滴滴快车<br>
 <img src="https://www.meiyan.in//post-images/1624539139550.png" alt="" loading="lazy"><br>
 <strong>如何做产品价值及指标拆解</strong><br>
 确认用户价值，商业价值是什么？<br>
-<img src="https://www.meiyan.in//post-images/1624539771007.png" alt="" loading="lazy"></p>
+<img src="https://www.meiyan.in//post-images/1624539771007.png" alt="" loading="lazy"><br>
+产品指标是由产品经理自己提供的<br>
+<img src="https://www.meiyan.in//post-images/1633953837247.png" alt="" loading="lazy"><br>
+<strong>当前版本产品需求目的是什么？</strong><br>
+<img src="https://www.meiyan.in//post-images/1633953015037.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1633953147621.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1633953258343.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1633953354644.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1633953433507.png" alt="" loading="lazy"></p>
 <h2 id="45-总结">4.5 总结</h2>
+<p><strong>复杂功能的业务流程的过程是怎么样的？</strong><br>
+<img src="https://www.meiyan.in//post-images/1633954738056.png" alt="" loading="lazy"><br>
+<strong>需求进入需求池的过程</strong><br>
+<img src="https://www.meiyan.in//post-images/1622551817359.png" alt="" loading="lazy"><br>
+<strong>商业产品的迭代策略</strong><br>
+<img src="https://www.meiyan.in//post-images/1622725568068.png" alt="" loading="lazy"><br>
+<strong>如何制定产品考核指标</strong><br>
+<img src="https://www.meiyan.in//post-images/1633954807263.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
