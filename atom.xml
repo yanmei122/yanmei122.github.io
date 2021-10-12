@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.meiyan.in/</id>
     <title>程线多的blog</title>
-    <updated>2021-10-12T11:14:32.343Z</updated>
+    <updated>2021-10-12T12:49:59.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.meiyan.in/"/>
     <link rel="self" href="https://www.meiyan.in/atom.xml"/>
@@ -205,7 +205,44 @@ PC时代，最大的是机构ID<br>
         <link href="https://www.meiyan.in/post/p27-shang-xian-qian-hou-yun-ying/">
         </link>
         <updated>2020-12-24T09:27:46.000Z</updated>
-        <content type="html"><![CDATA[<p>上线前后运营</p>
+        <content type="html"><![CDATA[<pre><code>   为了配合产品部门做好产品的上线准备，在一款产品上线前或者一个新的产品功能发布之前，运营端有如下几个信息一定需要知晓--   
+   1.产品上线的时间（一定要反复确认时间有无变更，比如有无延期等），方便做产品上线前的各种运营准备工作（如用户告知、文档储备等）；   
+   2.产品方案的最终版本，包含清晰的产品功能流程和逻辑，用于判断哪些地方运营可能需要准备引导文案，以及上线后该如何面向用户介绍等；
+</code></pre>
+<h2 id="如何做一个产品运营方案">如何做一个产品运营方案？</h2>
+<p>产品快要上线了，老板说--出个产品运营方案吧<br>
+<strong>1.评估产品上线的目的</strong><br>
+上线目的：新业务探索<br>
+<img src="https://www.meiyan.in//post-images/1634039433559.png" alt="" loading="lazy"><br>
+上线目的：推广新业务新功能<br>
+<img src="https://www.meiyan.in//post-images/1634039805958.png" alt="" loading="lazy"><br>
+上线目的：拉升某个特定数据<br>
+<img src="https://www.meiyan.in//post-images/1634039963996.png" alt="" loading="lazy"><br>
+<strong>2.一份完整的运营方案要考虑3个方面</strong><br>
+第一步：产品核心价值的补充和完善<br>
+<img src="https://www.meiyan.in//post-images/1634040254749.png" alt="" loading="lazy"><br>
+第二步：用户告知&amp;产品推广<br>
+邮件推送、站内信、站内广告推广位、新媒体渠道<br>
+<img src="https://www.meiyan.in//post-images/1634040781017.png" alt="" loading="lazy"><br>
+<img src="https://www.meiyan.in//post-images/1634040905432.png" alt="" loading="lazy"><br>
+第二步：如何建立和维系好产品生态<br>
+<img src="https://www.meiyan.in//post-images/1634041375471.png" alt="" loading="lazy"><br>
+良性循环<br>
+<img src="https://www.meiyan.in//post-images/1634041460994.png" alt="" loading="lazy"><br>
+方案落实<br>
+<img src="https://www.meiyan.in//post-images/1634041875881.png" alt="" loading="lazy"><br>
+PDCA循环<br>
+<img src="https://www.meiyan.in//post-images/1634042015804.png" alt="" loading="lazy"><br>
+** 制定产品运营方案的基本原则**<br>
+1.先明确宏观战略目标，再考虑落地<br>
+2.先完善产品价值，再考虑放大和传递产品价值<br>
+3.执行！执行！执行！落地方案<br>
+##推广环境需要注意到的问题**<br>
+我们在哪几个渠道进行推广？<br>
+推广的排期是怎样的？<br>
+我们推广的内容有几个版本？<br>
+推广内容我们是不是已经准备好了？<br>
+发布之后我们是否需要对内容进行维护？</p>
 ]]></content>
     </entry>
     <entry>
