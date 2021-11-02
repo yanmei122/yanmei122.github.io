@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.meiyan.in/</id>
     <title>程线多的blog</title>
-    <updated>2021-10-19T12:49:32.081Z</updated>
+    <updated>2021-11-02T07:15:32.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.meiyan.in/"/>
     <link rel="self" href="https://www.meiyan.in/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://www.meiyan.in/images/avatar.png</logo>
     <icon>https://www.meiyan.in/favicon.ico</icon>
     <rights>All rights reserved 2021, 程线多的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[项目集]]></title>
+        <id>https://www.meiyan.in/post/xiang-mu-ji/</id>
+        <link href="https://www.meiyan.in/post/xiang-mu-ji/">
+        </link>
+        <updated>2021-11-01T02:26:10.000Z</updated>
+        <content type="html"><![CDATA[<p>以下是我独立负责过的主要项目：<br>
+程序员客栈(web\app\小程序)https://www.proginn.com/wo/154097<br>
+技术圈（web+h5)：https://jishuin.proginn.com/?from=top_nav<br>
+开发屋（web+h5)：https://www.kaifain.com/<br>
+兼职招聘（web+h5)：https://job.proginn.com/<br>
+领薪宝（web+h5)：https://agent.lingxb.com/<br>
+资源商城（web+h5)：https://www.proginn.com/works/<br>
+技能服务（web+h5)：https://www.proginn.com/skill/<br>
+技术咨询（web+h5)：https://www.proginn.com/consult/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生而为人]]></title>
         <id>https://www.meiyan.in/post/ke-wei-yu-you-wei/</id>
@@ -417,104 +434,6 @@ B2C--&gt;滴滴专车、滴滴快车<br>
 <img src="https://www.meiyan.in//post-images/1622725568068.png" alt="" loading="lazy"><br>
 <strong>如何制定产品考核指标</strong><br>
 <img src="https://www.meiyan.in//post-images/1633954807263.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P2【3.产品调研进阶】]]></title>
-        <id>https://www.meiyan.in/post/p23chan-pin-diao-yan-jin-jie/</id>
-        <link href="https://www.meiyan.in/post/p23chan-pin-diao-yan-jin-jie/">
-        </link>
-        <updated>2020-11-29T08:06:15.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="31抄也是一门学问">3.1抄也是一门学问</h2>
-<p><strong>产品分析和竞品调研</strong><br>
-<strong>3.1.1产品分析与竞品调研的概念</strong><br>
-<strong>为什么要做产品分析与调研？</strong><br>
-产品分析：了解产品概况，具体功能模块的产品功能设计与逻辑<br>
-竞品调研：竞品检测，分析竞品情况<br>
-日常交流学习，提升产品感觉<br>
-<strong>产品调研常见误区</strong><br>
-产品调研报告  不等于  行业分析报告<br>
-产品调研报告  不等于  产品体验报告<br>
-产品调研  不等于 写产品报告 （重点是调研过程）<br>
-不要用“看起来很高深的数据”的分析过程来证明自己的结论是靠谱的<br>
-不用期望通过竞品调研来证明自己的存在感（多看竞品优秀的地方）</p>
-<p>不做产品调研的PM是不合格的，优秀的PM一定能做好产品调研</p>
-<p><strong>3.1.2产品分析与调研的方法</strong><br>
-<img src="https://www.meiyan.in//post-images/1606638811926.png" alt="" loading="lazy"><br>
-<strong>2.1明确调研的背景与目的</strong><br>
-<img src="https://www.meiyan.in//post-images/1606639880256.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1606639553912.png" alt="" loading="lazy"><br>
-<strong>2.2选定目标产品</strong><br>
-<img src="https://www.meiyan.in//post-images/1606639803405.png" alt="" loading="lazy"><br>
-<strong>2.3深度体验产品</strong><br>
-<img src="https://www.meiyan.in//post-images/1606640036322.png" alt="" loading="lazy"><br>
-<strong>2.4还原产品</strong><br>
-<img src="https://www.meiyan.in//post-images/1606640118198.png" alt="" loading="lazy"><br>
-<strong>2.5分析产品</strong><br>
-<img src="https://www.meiyan.in//post-images/1606640252900.png" alt="" loading="lazy"><br>
-<strong>2.6产品迭代与运营分析</strong><br>
-<img src="https://www.meiyan.in//post-images/1606640504378.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1606640602636.png" alt="" loading="lazy"><br>
-<strong>2.7横向比较同类型的产品</strong><br>
-<img src="https://www.meiyan.in//post-images/1606640750169.png" alt="" loading="lazy"><br>
-<strong>2.8撰写调研分析报告</strong><br>
-<img src="https://www.meiyan.in//post-images/1606640927418.png" alt="" loading="lazy"><br>
-<strong>2.9推广报告</strong><br>
-内部分享：在公司内部建立分享会<br>
-外部发布：在第三方平台表达出来</p>
-<h2 id="32产品初期针对行业的调研">3.2产品初期针对行业的调研</h2>
-<p><strong>关于PMF的概念</strong><br>
-产品脱离市场：足记<br>
-产品被市场套牢：诺基亚、柯达<br>
-<strong>3.2.1产业地图-产业链梳理与市场盘点</strong><br>
-产业地图包括三个方面：1.市场趋势和规模 2.产业链梳理：业务抽象化表达 3.主要玩家和商业模式<br>
-<img src="https://www.meiyan.in//post-images/1608809043051.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608809313693.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608809428249.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608809491511.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608809743134.png" alt="" loading="lazy"><br>
-<strong>3.2.2典型产品的结构化分析</strong><br>
-<img src="https://www.meiyan.in//post-images/1608809948458.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608810075923.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608810188379.png" alt="" loading="lazy"><br>
-核心业务结构：生产者-消费者之间的业务关系<br>
-<img src="https://www.meiyan.in//post-images/1608810259942.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608810372714.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608810961632.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608811015840.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608811044097.png" alt="" loading="lazy"><br>
-用户评价<br>
-<img src="https://www.meiyan.in//post-images/1608811107007.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608811114386.png" alt="" loading="lazy"><br>
-<strong>3.2.3典型用户画像与用户故事</strong><br>
-<img src="https://www.meiyan.in//post-images/1608811263070.png" alt="" loading="lazy"><br>
-用户画像是指通过数据描述的方式，勾画出产品中用户的统计特征、行为特征和心理特征的方法<br>
-价值：可以客观的描述用户的统计特征、行为特征和心理特征，能使产品和运营更加透明，需求描述更加清楚<br>
-风险：只是参考，无法确定核心需求，不能过度依赖<br>
-<img src="https://www.meiyan.in//post-images/1608811665949.png" alt="" loading="lazy"><br>
-<strong>3.2.4结论产出：机会&amp;风险</strong><br>
-<img src="https://www.meiyan.in//post-images/1608811766897.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608811840005.png" alt="" loading="lazy"><br>
-<img src="https://www.meiyan.in//post-images/1608812035820.png" alt="" loading="lazy"><br>
-<strong>3.2.5总结</strong><br>
-数据来源<br>
-<img src="https://www.meiyan.in//post-images/1608812244027.png" alt="" loading="lazy"><br>
-规划的核心是消灭未知的恐惧<br>
-产品分析的核心是避免别人踩过的坑<br>
-产品定位：我的机会、我的敌人<br>
-最后产品：市场机会和我们已有资源，交集出来的实施方案<br>
-从整体到细节的把控：产业链-典型产品-竞品玩家<br>
-做PMF（适应市场的产品）：产业地图-典型产品分析-用户画像与故事-结论实施方案</p>
-<h2 id="33总结">3.3总结</h2>
-<p>产品分析：了解产品情况，具体功能模块的产品设计逻辑<br>
-竞品调研：竞品监测，分析竞品的情况(借鉴)<br>
-日常交流学习，提升产品感觉<br>
-产品调研报告 ≠ 行业分析报告<br>
-产品调研报告 ≠ 产品体验报告<br>
-产品调研 ≠ 写产品报告<br>
-不要用“看起来很高深”的分析过程来证明自己的结论是靠谱的<br>
-不要期望通过竞品的调研来证明自己的存在感<br>
-产品调研流程：1.调研背景  2.明确背景 3.选择产品 4.体验产品 5.撰写报告 6.得出结论 7.分析产品 8.还原产品 9.推广报告</p>
 ]]></content>
     </entry>
 </feed>
